@@ -1,0 +1,12 @@
+# Keep avatars at 195x45 px (width/height)
+-   name: BSIM2
+    url: http://www.bsimsquare.com
+    avatar: /images/sponsors/logo_bsimsquare.jpg
+
+-   name: FCT
+    url: http://www.fct.pt
+    avatar: /images/sponsors/logo_fct.jpg
+
+-   name: IPN
+    url: http://www.ipn.pt
+    avatar: /images/sponsors/logo_ipn.jpg
