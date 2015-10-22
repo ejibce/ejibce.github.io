@@ -1,13 +1,4 @@
 #main {
-    article.people{
-        width: 80%;
-        margin-left:10%;
-
-        img {
-            max-width: 120px;
-            max-height: 120px;
-        }
-    }
 }
 
 .mem-position {
@@ -38,6 +29,9 @@ ul.rig li img {
 	max-width: 100%;
 	height: auto;
 	margin: 0 0 10px;
+
+    max-width: 120px;
+    max-height: 120px;
 }
 ul.rig li h3 {
 	margin: 0 0 5px;
