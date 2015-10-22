@@ -37,7 +37,7 @@
         <h3>Organização</h3>
         <ul class="rig columns-5">
             {% for member in site.data.organizacao %}
-                <li>
+                <li class="boxed">
                     {% if member.avatar %}
                         {% assign avatar = member.avatar %}
                     {% else %}
@@ -46,10 +46,10 @@
 
                     {% if member.url %}
                     <a href="{{ member.url }}" target="_blank">
-                        <img src="{{ avatar }}" />
+                        <img class="avatar" src="{{ avatar }}" />
                     </a>
                     {% else %}
-                        <img src="{{ avatar }}" />
+                        <img class="avatar" src="{{ avatar }}" />
                     {% endif %}
                     <h3>{{ member.name }}</h3>
                     <a class='mem-position'>{{ member.position }}</a>
@@ -63,7 +63,7 @@
         <h3>Comité Científico</h3>
         <ul class="rig columns-5">
             {% for member in site.data.cientifico %}
-                <li>
+                <li class="boxed">
                     {% if member.avatar %}
                         {% assign avatar = member.avatar %}
                     {% else %}
@@ -72,10 +72,10 @@
 
                     {% if member.url %}
                     <a href="{{ member.url }}" target="_blank">
-                        <img src="{{ avatar }}" />
+                        <img class="avatar" src="{{ avatar }}" />
                     </a>
                     {% else %}
-                        <img src="{{ avatar }}" />
+                        <img class="avatar" src="{{ avatar }}" />
                     {% endif %}
                     <h3>{{ member.name }}</h3>
                     <a class='mem-position'>{{ member.position }}</a>
