@@ -9,8 +9,12 @@
 - title: Localização
   url: /local/
 
-- title: Pessoas
-  url: /pessoas/
+- title: Programa
+  url: /programa/
+
+- title: Registo
+  url: /registo/
+
 #
 # - title: Theme Setup
 #   url: /theme-setup/
