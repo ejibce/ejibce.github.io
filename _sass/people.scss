@@ -1,6 +1,14 @@
 #main {
 }
 
+.mugshot {
+    float: left;
+    max-width: 130px;
+    padding-right: 1%;
+    @include rounded(130px);
+
+}
+
 .avatar {
     max-width: 120px;
     max-height: 120px;
@@ -9,6 +17,7 @@
 .mem-position {
     font-size: 0.9em;
     color: $link-color;
+    text-decoration: none !important;
 }
 
 ul.rig {
