@@ -14,7 +14,7 @@
 {% include _navigation.html %}
 
 {% if page.image.feature %}
-  <div class="image-wrap">
+  <div class="image-wrap" style="margin-top: 2em; margin-bottom: 3em;">
   <img src=
     {% if page.image.feature contains 'http' %}
       "{{ page.image.feature }}"
@@ -24,12 +24,6 @@
   alt="{{ page.title }} feature image">
   </div><!-- /.image-wrap -->
 {% endif %}
-
-<div class="footer-wrap">
-  <footer>
-    {% include _footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
 
 {% include _scripts.html %}
 
