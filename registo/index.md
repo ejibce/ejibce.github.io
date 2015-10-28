@@ -76,6 +76,6 @@ image:
 ### Notas
 * O número de participantes possíveis está limitado pelo espaço de que dispomos. Desta forma, em caso de sobrelotação, procederemos a uma selecção dos participantes com base na data de registo ("first come, first served").  
 
-* Sete dos abstracts submetidos serão escolhidos para serem apresentados durante o encontro em sessões de 25 minutos (20 Apresentação + 5 Discussão). A selecção dos abstracts será feita por [um painel de cientistas internacionais](/acerca) líderes na área. O prazo-limite para submissão de abstracts é dia **20 de Novembro**. A notificação dos seleccionados será feita na primeira semana de Dezembro.  
+* Sete dos abstracts submetidos serão escolhidos para serem apresentados durante o encontro em sessões de 25 minutos (20 Apresentação + 5 Discussão). A selecção dos abstracts será feita por [um painel de cientistas internacionais](/acerca) líderes na área. O prazo-limite para submissão de abstracts é dia **30 de Novembro**. A notificação dos seleccionados será feita na primeira semana de Dezembro.  
 
-* Cada participante pode registar no máximo um poster e uma apresentação oral. Não há, à partida, limite para o número de posters a serem expostos durante o encontro.
+* Cada participante pode registar no máximo um poster ou uma apresentação oral. Não há, à partida, limite para o número de posters a serem expostos durante o encontro.
