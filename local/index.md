@@ -9,10 +9,11 @@ image:
   credit: Photo by Danilo Pavone
 ---
 
-O EJIBCE 2015 terá lugar no Auditório da [Aceleradora do Instituto Pedro Nunes](https://www.ipn.pt/tecBis),
-em Coimbra. Esta Aceleradora, lançada em 2014, serve como uma infra-estrutura de apoio empresarial que
-actua a jusante da Incubadura, visando dar resposta a necessidades específicas de empresas em estado
-de desenvolvimento mais avançado.
+O EJIBCE 2015 terá lugar no [Instituto Pedro Nunes (IPN)](https://www.ipn.pt), em Coimbra. Criado por
+iniciativa da Universidade de Coimbra em 1991, o IPN visa promover a inovação e a transferência de
+tecnologia, estabelecendo a ligação entre o meio científico e tecnológico e o tecido produtivo. O
+instituto dispõe de [seis laboratórios](https://www.ipn.pt/laboratorios) próprios de investigação e
+desenvolvimento tecnológico, de uma [incubadora](https://www.ipn.pt/incubadora) e de uma [aceleradora de empresas](https://www.ipn.pt/tecBis).
 
 # Como chegar
 
