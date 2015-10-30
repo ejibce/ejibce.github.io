@@ -18,9 +18,10 @@ curta discussão. As restantes 3 comunicações serão feitas por investigadores
 cerca de 30 minutos e 10 de discussão.
 
 ## Sessão Temática: Biologia de Sistemas
-De forma a construir pontes e fomentar sinergias com áreas científicas próximas, o EJIBCE 2015 inclui
-uma sessão temática dedicada à Biologia de Sistemas constituída por comunicações orais, umas das quais
-por um dos investigadores convidados.
+De forma a construir pontes com áreas científicas próximas, o EJIBCE 2015 inclui uma sessão temática
+dedicada à Biologia de Sistemas com comunicações orais seleccionadas. Além destas, dois dos investigadores
+convidados apelam, nas suas comunicações, à sinergia entre a Biologia Computacional Estrutural e à
+Biologia de Sistemas.
 
 ## Oradores Convidados
 
