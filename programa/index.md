@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: "Programa e detalhes sobre o EJIBCE 2015"
 tags: [EJIBCE, FCT, SPB, ANBIOQ, IPN, BSIM2]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
