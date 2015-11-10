@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Localização do EJIBCE
+title: Localização
 excerpt: "Informações Gerais de Localização do EJIBCE 2015"
 tags: [EJIBCE, FCT, SPB, ANBIOQ, IPN, BSIM2]
 modified: 2014-08-08T20:53:07.573882-04:00
