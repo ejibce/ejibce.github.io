@@ -1,12 +1,28 @@
-# Keep avatars at 195x45 px (width/height)
+# Keep avatars at 200 px width
+-   name: ANBIOQ
+    url: http://www.anbioq.org
+    avatar: /images/sponsors/logo_ANBIOQ.jpg
+
 -   name: BSIM<sup>2</sup>
     url: http://www.bsimsquare.com
-    avatar: /images/sponsors/logo_bsimsquare.jpg
+    avatar: /images/sponsors/logo_BSIM2.jpg
 
--   name: FCT
-    url: http://www.fct.pt
-    avatar: /images/sponsors/logo_fct.jpg
+-   name: CNC
+    url: http://www.cncb.pt
+    avatar: /images/sponsors/logo_CNC.jpg
+
+-   name: CQC
+    url: http://www.uc.pt/fctuc/dquimica/Investigacao/CQC
+    avatar: /images/sponsors/logo_CQC.jpg
+
+# -   name: FCT
+#     url: http://www.fct.pt
+#     avatar: /images/sponsors/logo_FCT.jpg
 
 -   name: IPN
     url: http://www.ipn.pt
-    avatar: /images/sponsors/logo_ipn.jpg
+    avatar: /images/sponsors/logo_IPN.jpg
+
+-   name: UC
+    url: http://www.uc.pt
+    avatar: /images/sponsors/logo_UC.jpg
