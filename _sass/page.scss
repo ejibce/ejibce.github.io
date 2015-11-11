@@ -22,42 +22,20 @@ body {
 	margin-bottom: 2em;
 }
 
-/* Site name */
-.site-name {
-	@include grid(12,10);
-	@include prefix(12,1);
-	@include suffix(12,1);
-	margin-bottom: 1em;
-	float: none;
-	display: block;
-	@include font-rem(24);
-	@media #{$small} {
-		@include grid(12,2);
-		@include prefix(12,0.5);
-		@include suffix(12,0.5);
-		@include font-rem(16);
-	}
-	@media #{$x-large} {
-		@include grid(12,1.5);
-		@include prefix(12,2);
-	}
-}
-
 /* Top navigation links */
 .top-navigation {
-	@include grid(12,10);
-	@include prefix(12,1);
-	@include suffix(12,1);
+	@include grid(12,9);
+	@include prefix(12,2);
 	margin-bottom: 1em;
 	float: none;
 	display: block;
 	@media #{$small} {
-		@include grid(12,9);
-		@include prefix(12,0);
+		@include grid(12,8);
+		@include prefix(12,1);
 		@include suffix(12,0);
 	}
 	@media #{$x-large} {
-		@include grid(12,8);
+		@include grid(12,7);
 	}
 	ul {
 		margin: 0;
@@ -217,6 +195,21 @@ $button-size: 1.5rem;
 	transition: max-height .4s;
 }
 
+/* Social Icons */
+.social-icons {
+	@include grid(12,10,right,none); // Hide icons in mobile
+	margin-bottom: 1em;
+	float: none;
+	@include font-rem(24);
+	@media #{$small} {
+		@include grid(12,2,right);
+		@include font-rem(16);
+	}
+	@media #{$x-large} {
+		@include grid(12,1.5,right);
+	}
+}
+
 /* Main content */
 #main {
 	counter-reset: captions;
@@ -347,7 +340,7 @@ $button-size: 1.5rem;
 
 /* Default social media links in author sidebar */
 .author-social {
-  display: block;
+  // display: block;
   margin-bottom: 5px;
   @include font-rem(14);
   color: $black;
