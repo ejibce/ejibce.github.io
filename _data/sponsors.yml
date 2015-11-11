@@ -15,6 +15,14 @@
     url: http://www.uc.pt/fctuc/dquimica/Investigacao/CQC
     avatar: /images/sponsors/logo_CQC.jpg
 
+-   name: CRESSET
+    url: http://www.cresset-group.com/
+    avatar: /images/sponsors/logo_CRESSET.jpg
+
+-   name: Espectro
+    url: http://www.espectro.pt/
+    avatar: /images/sponsors/logo_ESPECTRO.jpg
+
 # -   name: FCT
 #     url: http://www.fct.pt
 #     avatar: /images/sponsors/logo_FCT.jpg
@@ -22,6 +30,10 @@
 -   name: IPN
     url: http://www.ipn.pt
     avatar: /images/sponsors/logo_IPN.jpg
+
+-   name: Patents.pt
+    url: http://www.patents.pt/
+    avatar: /images/sponsors/logo_PATENTS.jpg
 
 -   name: UC
     url: http://www.uc.pt
