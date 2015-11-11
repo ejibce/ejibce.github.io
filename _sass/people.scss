@@ -8,10 +8,10 @@
     @include rounded(130px);
 }
 
-.avatar {
-    max-width: 150px;
-    max-height: 150px;
-}
+// .avatar {
+//     max-width: 100px;
+//     max-height: 100px;
+// }
 
 .mem-position {
     font-size: 0.9em;
@@ -26,8 +26,8 @@ ul.rig {
 }
 ul.rig li {
 	display: inline-block;
-	// padding: 1em;
-	margin: 0 0 1.5% 1.5%;
+	padding: 1em;
+	margin: 0 0 0.5% 2.5%;
 	font-size: 16px;
 	font-size: 1rem;
 	vertical-align: middle;
@@ -49,7 +49,12 @@ ul.rig li.boxed {
 }
 
 ul.rig li img {
-	// max-width: 100%;
+	max-width: 100%;
+	height: auto;
+}
+
+ul.rig li.boxed img {
+	max-width: 100%;
 	height: auto;
 	margin: 0 0 10px;
 }
@@ -78,6 +83,15 @@ ul.rig.columns-4 li {
 ul.rig.columns-5 li {
 	width: 17.5%; /* this value + 2.5 should = 20% */
 }
+/* class for 6 columns */
+ul.rig.columns-6 li {
+	width: 13.5%; /* this value + 2.5 should = 16% */
+}
+/* class for 6 columns */
+ul.rig.columns-8 li {
+	width: 10%; /* this value + 2.5 should = 16% */
+}
+
 @media (max-width: 480px) {
 	ul.grid-nav li {
 		display: block;
