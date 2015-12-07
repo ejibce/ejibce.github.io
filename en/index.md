@@ -66,6 +66,12 @@ to the event, in hopes of sparking out-of-the-box discussions and collaborations
 <strong>Rita Santos</strong> graduated in Biochemistry at the University of Lisbon (2007), and obtained a MSc degree in the field of drug research and development, with specialization in Computational Chemistry and Toxicology, at the Vrije Universiteit Amsterdam (2009). During her master’s research, she investigated the role of water molecules in molecular docking simulations of human cytochrome P450 2D6 with the goal of improving the prediction of drug metabolism. This was followed by a PhD in Bioinformatics at the University of Cambridge (2014), in the group of Professor John Overington, where she investigated differences between age groups at the molecular level, which may explain different responses to drugs (e.g. child vs. adult). Since September 2014, Rita is working for GlaxoSmithKline as a computational biologist, and is involved in several projects focusing the identification and validation of therapeutic targets.
 </p>
 
+## Sponsor's Corner
+<p style="min-height: 130px; text-indent: 0;">
+<img src="/images/pessoas/foto_susana_tomasio.jpg" class="mugshot" />
+<strong>Susana Tomásio</strong> is a Computational Chemist and Academic Coordinator at Cresset in Cambridge, United Kingdom. Susana received her degree in Chemistry (Physical-Chemistry area) from the University of Coimbra, Portugal. She followed this with a PhD in Theoretical and Computational Chemistry at the University of Warwick, under the supervision of Dr Tiffany Walsh, where she studied the interactions between peptides and carbon nanotubes with a polarisable force-field. Susana then continued with a postdoc in Computational Chemical Biology at the University of Southampton under the supervision of Dr Syma Khalid. This was followed by a post-doctoral research at the University of Cambridge, UK, under the supervision of Dr Peter Bond where Susana applied free energy techniques to probe the molecular determinants of TLR4-ligand recognition and activation. In her current position at Cresset, Susana is involved in the research and validation of new methods to be implemented in Cresset’s software.
+</p>
+
 ## Statement of Responsibility
 All materials and services on this website are provided without warranties. The content published in these
 pages may contain errors for which the organization assumes no liability or responsibility. The content is
