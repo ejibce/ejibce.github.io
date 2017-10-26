@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Registo
-excerpt: "Página de registo para o EJIBCE 2015"
-tags: [EJIBCE, FCT, SPB, ANBIOQ, IPN, BSIM2]
+excerpt: "Página de registo para o EJIBCE 2017"
+tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
@@ -10,4 +10,4 @@ image:
   credit: EJIBCE 2013
 ---
 
-Lamentamos mas já não é possível o registo no EJIBCE 2015.
+

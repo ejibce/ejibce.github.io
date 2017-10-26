@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Programa & Detalhes"
-tags: [EJIBCE, FCT, SPB, ANBIOQ, IPN, BSIM2]
+tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
