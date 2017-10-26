@@ -1,8 +1,8 @@
 ---
 layout: acerca
 title: Acerca
-excerpt: "Informações Gerais sobre o EJIBCE 2015"
-tags: [EJIBCE, FCT, SPB, ANBIOQ, IPN, BSIM2]
+excerpt: "Informações Gerais sobre o EJIBCE 2017"
+tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
@@ -12,9 +12,7 @@ image:
 
 O Encontro de Jovens Investigadores de Biologia Computacional Estrutural (EJIBCE) tem como objectivo
 reunir a comunidade científica portuguesa nesta área num encontro livre de encargos, de forma a
-proporcionar um espaço de discussão e partilha sem compromissos. Esta terceira edição alimenta-se do
-sucesso das edições anteriores, no Porto e em Lisboa, que reuniram cerca de 60 participantes num total
-de mais de 30 comunicações orais.
+proporcionar um espaço de discussão e partilha sem compromissos. Esta quinta edição alimenta-se do sucesso das edições anteriores, no Porto, em Lisboa, em Coimbra e Oeiras que reuniram cerca de 60 participantes num total de mais de 10 comunicações orais, por edição.
 
 ## Missão & Objectivos
 A partilha e discussão de ideias são as sementes para uma comunidade científica forte. Dada a presente situação económica, torna-se cada vez mais difícil manter e estimular um espírito de abertura e colaboração entre os vários grupos de investigação em Portugal. Ademais, com a acentuada "fuga de cérebros", muitos jovens cientistas portugueses vêem-se forçados a emigrar, perdendo por vezes contacto com o panorama científico nacional.
