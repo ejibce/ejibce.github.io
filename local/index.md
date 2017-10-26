@@ -16,6 +16,3 @@ O EJIBCE 2017 terá lugar no [Departamento de Física da Universidade de Coimbra
 
 ## Localização no Mapa
 <iframe src="https://www.google.pt/maps/place/Departamento+de+F%C3%ADsica+da+Universidade+de+Coimbra/@40.207816,-8.4266507,17z/data=!3m1!4b1!4m5!3m4!1s0xd22f9098f98004b:0xf74b13602c7f2de3!8m2!3d40.207816!4d-8.424462" width="650" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-## Transportes Públicos
-Para chegar de transportes públicos ao Pólo I Universitário, apanhe a linha 5
