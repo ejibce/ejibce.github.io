@@ -58,12 +58,6 @@ TCB group in 2014 to employ molecular dynamics simulation to study the cellulose
 development always present in his work. He is currently the main developer of the newest VMD plugin to assist MD novice users in the preparation, execution and analysis of MD simulations, QwikMD. This plugin smooths the initial learning curve imposed by the MD programs and allows more advanced users to speed-up tedious structure preparation procedures. </p>
 </p>
 
-## Sponsor's Corner
-<p style="min-height: 130px; text-indent: 0;">
-<img src="/images/pessoas/foto_susana_tomasio.jpg" class="mugshot" />
-<strong>Susana Tomásio</strong> is a Computational Chemist and Academic Coordinator at Cresset in Cambridge, United Kingdom. Susana received her degree in Chemistry (Physical-Chemistry area) from the University of Coimbra, Portugal. She followed this with a PhD in Theoretical and Computational Chemistry at the University of Warwick, under the supervision of Dr Tiffany Walsh, where she studied the interactions between peptides and carbon nanotubes with a polarisable force-field. Susana then continued with a postdoc in Computational Chemical Biology at the University of Southampton under the supervision of Dr Syma Khalid. This was followed by a post-doctoral research at the University of Cambridge, UK, under the supervision of Dr Peter Bond where Susana applied free energy techniques to probe the molecular determinants of TLR4-ligand recognition and activation. In her current position at Cresset, Susana is involved in the research and validation of new methods to be implemented in Cresset’s software.
-</p>
-
 ## Statement of Responsibility
 All materials and services on this website are provided without warranties. The content published in these
 pages may contain errors for which the organization assumes no liability or responsibility. The content is
