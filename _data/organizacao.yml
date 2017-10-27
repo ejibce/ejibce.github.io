@@ -5,7 +5,7 @@
 
 -   name: Cândida Silva
     position: CQC
-    url:
+    url: https://www.linkedin.com/in/candidasilva/
     avatar: /images/pessoas/foto_candida_silva.jpg
 
 -   name: Carlos Simões
@@ -16,7 +16,7 @@
 -   name: António Preto
     position: CNC
     url: https://www.linkedin.com/in/ant%C3%B3nio-preto-905311b6/
-    avatar: 
+    avatar: /images/pessoas/foto_antonio_preto.png
 
 -   name: José Almeida
     position: EBI
@@ -27,3 +27,13 @@
     position: CNC
     url: https://www.linkedin.com/in/carlos-barreto-27ab8a10a/
     avatar: /images/pessoas/foto_carlos_barreto.jpg
+
+-   name: Alexandra Carvalho
+    position: CNC
+    url: https://www.linkedin.com/in/alexandra-carvalho-58198a8/
+    avatar: /images/pessoas/foto_alexandra_carvalho.png
+
+-   name: Rita Melo
+    position: CNC
+    url: https://www.linkedin.com/in/rita-melo-9653aaa/
+    avatar: /images/pessoas/foto_rita_melo.png
