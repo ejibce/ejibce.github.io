@@ -1,8 +1,8 @@
 ---
 layout: about
 title: About
-excerpt: "General Information about EJIBCE 2015"
-tags: [EJIBCE 2015, FCT, UC, ANBIOQ, IPN, BSIM2]
+excerpt: "General Information about EJIBCE 2017"
+tags: [EJIBCE 2017, FCT, UC, ANBIOQ, IPN, BSIM2]
 comments: false
 image:
   feature: feature-ACERCA.jpg
@@ -29,8 +29,8 @@ active both in Portugal and abroad, can meet and get to know each other's resear
 Ultimately, we hope that in doing so, we will be able to stimulate new collaborations and broaden the
 horizons of the Portuguese community of Computational Structural Biologists.
 
-## EJIBCE 2015
-EJIBCE 2015 builds up on the format of previous editions, focusing on a small number of oral
+## EJIBCE 2017
+EJIBCE 2017 builds up on the format of previous editions, focusing on a small number of oral
 communications interspersed with several breaks to encourage discussion and exchange of ideas.
 Throughout the day, 10 researchers will present their results. Seven will be selected from the
 submitted abstracts by the Scientific Committee, based on the quality and originality of the work,
@@ -38,32 +38,24 @@ and will be given 20 minutes to speak, followed by a short discussion. The remai
 communications will be delivered by invited keynotes, who will be given 30 minutes to speak plus 10
 for discussion. The program is available as a Google Calendar [here](/programa#programa).
 
-This year's edition will take place in Coimbra, at [Instituto Pedro Nunes (IPN)](http://www.ipn.pt),
-a private non-profit organisation that promotes innovation and the transfer of technology, by providing
-incubator and accelerator facilities for scientific and technology startups. Differing from previous
-editions, we created a session of talks on a sister area to encourage cross-disciplinary collaborations
-and reach a wider audience. This first cross-disciplinary session will target Systems Biology, a field
-naturally complementary to Computational Structural Biology, and will boast a dedicated invited speaker
-and several selected talks from the audience. Further, the choice of IPN is also not without a purpose.
-Several specifically targeted companies currently housed in the incubator and accelerator will be invited
-to the event, in hopes of sparking out-of-the-box discussions and collaborations.
+This year's edition will take place in Coimbra, at [University of Coimbra Physic's Department](http://www.ipn.pt).
 
 ## Guest Speakers
-<p style="min-height: 130px;">
-<img src="/images/pessoas/foto_fatima_lucas.jpg" class="mugshot" />
-<strong>Fátima Lucas</strong> is senior researcher at the Barcelona Supercomputing Center (BSC) and the company Anaxomics Biotech, in Barcelona, Spain. Fátima received her degree in Chemistry from the University of Porto, where she also completed a MSc degree and a PhD, both in Computational Chemistry, under the guidance of Prof. Maria João Ramos. After a period of post-doctoral research at Universitat della Calabria, Italy, Fatima settled at the BSC, where she obtained a postdoctoral researcher grant from Fundação para a Ciência e a Tecnologia (FCT) and a Juan de la Cierva do MINECO postdoctoral scholarship. Her research interests are related to protein engineering with industrial applications. In particular, she is interested in the development of computational methods to guide rational design processes and/or protein directed evolution in the lab.
-</p>
-<br/>
+<p style="min-height: 130px; text-indent: 0;">
+<img src="/images/pessoas/foto_joao_martins.jpg" class="mugshot" />
+<strong>João M. Martins</strong> graduated with a Bachelor’s degree in Chemistry with the University of Porto in 2011, having started his work in computational structural biology during his undergraduate studies. He later obtained the degree of master in Chemistry from the same university, researching quantum chemistry and theoretical structural biology during his Master’s thesis work. Working under Prof. Kresten Lindorff-Larsen, he obtained the PhD degree in Biochemistry in 2017 with the Structural Biology and NMR lab (SBiNLab) of the University of Copenhagen. His work has been focused on protein-protein interfaces, hotspot theory and small molecule docking under the supervision of Irina Moreira while at the University of Porto and mutation studies through free energy perturbation and integration of experimental data in protein simulation. Currently, he works as a postdoctoral research scientist at the The Image Section of the University of Copenhagen computer science department. His research focuses on protein structure and function studies through machine learning and neural networks’ methods.</p>
 
 <p style="min-height: 130px; text-indent: 0;">
-<img src="/images/pessoas/foto_bruno_correia.jpg" class="mugshot" />
-<strong>Bruno Correia</strong> graduated in Chemistry at the University of Coimbra (2004) and received a PhD in Computational Biology from ITQB-UNL. During his PhD work, he was supervised by David Baker and Bill Schief (2006-2011) and had the opportunity to develop computational methodologies in the field of protein design. Much of his work was focused on the design of functional protein, specifically immunogens with application in the development of new vaccines. During his post-doc at Benjamin Cravatt’s lab, the Scripps Research Institute - La Jolla (2011-2015), he developed experimental mass spectromery-based methodologies to map interactions between organic molecules and proteins in cellular proteomes. In 2015, Bruno became assistant professor in Bioengineering at the Ecole Polytecnhique Federale de Lausanne - Switzerland, where he is establishing a laboratory focused on protein engineering for therapeutic purposes using both experimental and computational strategies.
-</p>
-<br/>
+<img src="/images/pessoas/foto_ribeiro_antonio.jpg" class="mugshot" />
+<strong>António Ribeiro</strong> is a postdoctoral researcher in bioinformatics and computational chemistry at the European Bioinformatics Institute (EBI), in Cambridge. António finished his biochemistry master’s degree in 2009 at the Faculty of Sciences of the University of Porto. His master thesis was developed in the computational biochemistry group under the supervision of Professors Maria João Ramos and Pedro Fernandes, and focused on the application of computational methods (QM and QM/MM) to study chemical and enzymatic reactions. His PhD thesis, finished in 2013, was done in part at the same group, but also at the University of Calabria, with Professor Nino Russo. The thesis described the computational study of the catalytic mechanism of several enzymes, namely HIV-1 Integrase and Protein Phosphatase 5. After the PhD, António used other computational methods like virtual screening and free energy calculations to identify potential hit compounds for HIV-1 Integrase. Since June, 2016, he is part of Professor Janet Thornton’s group at the EBI, where he is developing a database of enzyme mechanisms and catalytic sites. This database (https://www.ebi.ac.uk/thornton-srv/m-csa/) will be used to understand enzymatic function and enzyme evolution.</p>
 
 <p style="min-height: 130px; text-indent: 0;">
-<img src="/images/pessoas/foto_rita_santos.jpg" class="mugshot" />
-<strong>Rita Santos</strong> graduated in Biochemistry at the University of Lisbon (2007), and obtained a MSc degree in the field of drug research and development, with specialization in Computational Chemistry and Toxicology, at the Vrije Universiteit Amsterdam (2009). During her master’s research, she investigated the role of water molecules in molecular docking simulations of human cytochrome P450 2D6 with the goal of improving the prediction of drug metabolism. This was followed by a PhD in Bioinformatics at the University of Cambridge (2014), in the group of Professor John Overington, where she investigated differences between age groups at the molecular level, which may explain different responses to drugs (e.g. child vs. adult). Since September 2014, Rita is working for GlaxoSmithKline as a computational biologist, and is involved in several projects focusing the identification and validation of therapeutic targets.
+<img src="/images/pessoas/foto_joao_ribeiro.jpg" class="mugshot" />
+<strong>João Ribeiro</strong> received his diploma degree in Bioinformatics in 2009 from the Faculty of Biotechnology, Portuguese Catholic University, and his Ph.D. in Sustainable Chemistry in 2014 from the Faculty of Science, the Faculty of Pharmacy and the Institute of Biomedical Sciences Abel Salazar of University of Porto in association with the Nova Lisboa University, advised by Prof. Maria J. Ramos. During his Bioinformatics degree, he had the opportunity to combine Biology and Biochemistry with software development to produce user-friendly Bioinformatics tools. The pursuit for the integration of Biochemistry and software development followed João to his Ph.D studies, where he developed third-party tools (plugins) for the widely used molecular visualization program VMD, developed by Klaus
+Schulten’s Theoretical and Computational Biophysics (TCB) group. These plugins aimed to assist non-expert users of Computational Chemistry software at different
+stages of the computer-aided drug design process, such as molecular docking, protein mutagenesis and molecular dynamics simulation analysis. João joined the
+TCB group in 2014 to employ molecular dynamics simulation to study the cellulose degradation process for biofuel production while keeping the software
+development always present in his work. He is currently the main developer of the newest VMD plugin to assist MD novice users in the preparation, execution and analysis of MD simulations, QwikMD. This plugin smooths the initial learning curve imposed by the MD programs and allows more advanced users to speed-up tedious structure preparation procedures. </p>
 </p>
 
 ## Sponsor's Corner

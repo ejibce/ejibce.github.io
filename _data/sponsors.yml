@@ -1,23 +1,27 @@
 # Keep avatars at 200 px width
--   name: ANBIOQ
-    url: http://www.anbioq.org
-    avatar: /images/sponsors/logo_ANBIOQ.jpg
+#-   name: ANBIOQ
+#    url: http://www.anbioq.org
+#    avatar: /images/sponsors/logo_ANBIOQ.jpg
 
--   name: BSIM<sup>2</sup>
-    url: http://www.bsimsquare.com
-    avatar: /images/sponsors/logo_BSIM2.jpg
+#-   name: BSIM<sup>2</sup>
+#    url: http://www.bsimsquare.com
+#    avatar: /images/sponsors/logo_BSIM2.jpg
 
 -   name: CNC
     url: http://www.cnbc.pt/
     avatar: /images/sponsors/logo_CNC.jpg
 
--   name: CQC
-    url: http://www.uc.pt/fctuc/dquimica/Investigacao/CQC
-    avatar: /images/sponsors/logo_CQC.jpg
+-   name: FLAD
+    url: http://www.flad.pt/
+    avatar: /images/sponsors/logo_flad.jpg
 
--   name: CRESSET
-    url: http://www.cresset-group.com/
-    avatar: /images/sponsors/logo_CRESSET.jpg
+#-   name: CQC
+#    url: http://www.uc.pt/fctuc/dquimica/Investigacao/CQC
+#    avatar: /images/sponsors/logo_CQC.jpg
+
+#-   name: CRESSET
+#    url: http://www.cresset-group.com/
+#    avatar: /images/sponsors/logo_CRESSET.jpg
 
 # -   name: Espectro
 #     url: http://www.espectro.pt/
@@ -27,17 +31,17 @@
 #     url: http://www.fct.pt
 #     avatar: /images/sponsors/logo_FCT.jpg
 
--   name: IPN
-    url: http://www.ipn.pt
-    avatar: /images/sponsors/logo_IPN.jpg
+#-   name: IPN
+#    url: http://www.ipn.pt
+#    avatar: /images/sponsors/logo_IPN.jpg
 
--   name: LCA-UC
-    url: http://www.uc.pt/lca/
-    avatar: /images/sponsors/logo_LCA.jpg
+#-   name: LCA-UC
+#    url: http://www.uc.pt/lca/
+#    avatar: /images/sponsors/logo_LCA.jpg
 
--   name: Patents.pt
-    url: http://www.patents.pt/
-    avatar: /images/sponsors/logo_PATENTS.jpg
+#-   name: Patents.pt
+#    url: http://www.patents.pt/
+#    avatar: /images/sponsors/logo_PATENTS.jpg
 
 -   name: UC
     url: http://www.uc.pt
