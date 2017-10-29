@@ -56,7 +56,6 @@ Schulten’s Theoretical and Computational Biophysics (TCB) group. These plugins
 stages of the computer-aided drug design process, such as molecular docking, protein mutagenesis and molecular dynamics simulation analysis. João joined the
 TCB group in 2014 to employ molecular dynamics simulation to study the cellulose degradation process for biofuel production while keeping the software
 development always present in his work. He is currently the main developer of the newest VMD plugin to assist MD novice users in the preparation, execution and analysis of MD simulations, QwikMD. This plugin smooths the initial learning curve imposed by the MD programs and allows more advanced users to speed-up tedious structure preparation procedures. </p>
-</p>
 
 ## Statement of Responsibility
 All materials and services on this website are provided without warranties. The content published in these
