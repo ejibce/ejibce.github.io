@@ -1,4 +1,4 @@
-# Site navigation links
+﻿# Site navigation links
 
 #- title: Início
 #  url: /
@@ -12,11 +12,11 @@
 - title: Programa
   url: /programa/
 
-#- title: Registo
-#  url: /registo/
+- title: Registo
+  url: /registo/
 
-- title: Livro de Resumos
-  url: /assets/files/EJIBCE_LR_2015.pdf
+#- title: Livro de Resumos
+#  url: /assets/files/EJIBCE_LR_2015.pdf
 
 - title: "[English]"
   url: /en/
