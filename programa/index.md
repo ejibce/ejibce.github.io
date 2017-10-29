@@ -29,4 +29,4 @@ Actualmente trabalha como pós-doutorando integrado na secção de análise de i
 
 ## Programa
 <iframe
-src="https://www.google.com/calendar/embed?src=ejibce%40gmail.com&ctz=Europe/Lisbon&showNav=0&showPrint=0&showCalendars=0&mode=AGENDA&wkst=1&dates=20151218%2F20151218" style="border: 0;" width="800" height="400" frameborder="0" scrolling="no"></iframe>
+src="https://calendar.google.com/calendar/b/3?cid=c3BubGo1b3JwYjg3OG9xdnQxYWF0Nmk1azRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" style="border: 0;" width="800" height="400" frameborder="0" scrolling="no"></iframe>
