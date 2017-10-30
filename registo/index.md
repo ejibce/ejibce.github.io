@@ -11,4 +11,4 @@ image:
 ---
 ##Registo
 
-<div style="width: 100%"><iframe src="https://docs.google.com/forms/d/1F2XEcHS8KOxpvvNpa2u68M5W0ylQbxK7XPPLd61oPG0/prefill" style="border: 0;" width="800" height="400" frameborder="0" scrolling="no"></iframe></iframe></div><br />
+<div style="width: 100%"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfM-MmlSy4ZrHzu_az0U99704pVQcPvpPLvq8r2tuTy59OzKw/viewform?usp=sf_link" style="border: 0;" width="800" height="400" frameborder="0" scrolling="no"></iframe></iframe></div><br />
