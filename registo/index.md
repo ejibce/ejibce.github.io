@@ -9,6 +9,6 @@ image:
   feature: feature-REGISTO.jpg
   credit: EJIBCE 2013
 ---
-##Registo
 
-<div style="width: 100%"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfM-MmlSy4ZrHzu_az0U99704pVQcPvpPLvq8r2tuTy59OzKw/viewform?usp=sf_link" style="border: 0;" width="800" height="400" frameborder="0" scrolling="no"></iframe></iframe></div><br />
+
+<div style="width: 100%"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfM-MmlSy4ZrHzu_az0U99704pVQcPvpPLvq8r2tuTy59OzKw/viewform?usp=sf_link" style="border: 0;" width="800" height="400" frameborder="0" scrolling="no"></iframe></div><br />
