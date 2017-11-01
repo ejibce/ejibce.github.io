@@ -1,0 +1,11 @@
+Optimizing Proteins and Ligands for Computerized Drug Discovery
+João M. Damas (1,*), Alberto Cuzzolin (1), Raimondas Galvelis (1), Stefan Doerr (1,2), Gerard Martinez-Rosell (2), Matt Harvey (1), Gianni De Fabritiis (1,2)
+1 - Acellera, PRBB, C/Dr. Aiguader 88, 08003 Barcelona, Spain
+2 - Computational Biophysics Laboratory (GRIB-IMIM), Universitat Pompeu Fabra (PRBB), C/Dr. Aiguader 88, 08003 Barcelona, Spain
+* j.damas@acellera.com
+
+The reliability of physics-based in-silico studies of protein-ligand complexes highly depends on the quality of available structures and force-field parameters. 
+Both these subjects have been largely addressed by both experimental and computational scientists from industry and academia. Yet, tasks like obtaining
+an initial structure with the correct protonation states and hydrogen-bond network or accurate force-field parameters for a given ligand can still be out of reach 
+for the non-experts in those particular fields. Here we showcase two software tools that aim at bridging this gap: proteinPrepare and parameterize. We 
+show how these softwares can be easily used by the community and how we are integrating these tools within a wider computational pipeline for drug discovery.

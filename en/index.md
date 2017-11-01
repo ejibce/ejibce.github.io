@@ -9,7 +9,7 @@ image:
   credit: EJIBCE 2013
 ---
 
-The Meeting of Young Researchers in Structural Computational Biology (EJIBCE) aims at bringing together the Portuguese scientific community working in the field in a free-of-charge meeting, to provide a forum for discussion and sharing with no strings attached. This third edition builds on the success of previous editions in Porto and Lisbon, which gathered ca. 60 participants and had over 10 oral communications in each edition.
+The Meeting of Young Researchers in Structural Computational Biology (EJIBCE) aims at bringing together the Portuguese scientific community working in the field in a free-of-charge meeting, to provide a forum for discussion and sharing with no strings attached. This third edition builds on the success of previous editions in Porto, Lisbon, Coimbra and Oeiras, which gathered ca. 60 participants and had over 10 oral communications in each edition.
 
 ## Mission & Objectives
 Given the current economic situation in Europe, and particulaly in Portugal, it is increasingly harder
