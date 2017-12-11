@@ -10,7 +10,7 @@ image:
 ---
 
 ## Informações Gerais
-O EJIBCE 2017 continua o formato das edições anteriores, apostando num número reduzido de comunicações orais para fomentar a discussão e troca de ideias. Ao longo do dia, 10 investigadores apresentarão os seus resultados. Destes 10, 6 serão seleccionados entre os resumos submetidos pelo comité científico com base na qualidade e originalidade do trabalho, e terão à sua disposição 20 minutos seguidos de uma curta discussão. As restantes 4 comunicações serão feitas por investigadores convidados, que terão cerca de 30 minutos e 10 de discussão.
+O EJIBCE 2017 continua o formato das edições anteriores, apostando num número reduzido de comunicações orais para fomentar a discussão e troca de ideias. Ao longo do dia, 11 investigadores apresentarão os seus resultados. Destes 11, 7 serão seleccionados entre os resumos submetidos pelo comité científico com base na qualidade e originalidade do trabalho, e terão à sua disposição 15 minutos seguidos de uma curta discussão. As restantes 4 comunicações serão feitas por investigadores convidados, que terão cerca de 30 minutos e 10 de discussão.
 
 ## Oradores Convidados
 
