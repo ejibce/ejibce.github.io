@@ -32,9 +32,9 @@ horizons of the Portuguese community of Computational Structural Biologists.
 ## EJIBCE 2017
 EJIBCE 2017 builds up on the format of previous editions, focusing on a small number of oral
 communications interspersed with several breaks to encourage discussion and exchange of ideas.
-Throughout the day, 10 researchers will present their results. Six will be selected from the
+Throughout the day, 11 researchers will present their results. Seven will be selected from the
 submitted abstracts by the Scientific Committee, based on the quality and originality of the work,
-and will be given 20 minutes to speak, followed by a short discussion. The remaining 4 oral
+and will be given 15 minutes to speak, followed by a short discussion. The remaining 4 oral
 communications will be delivered by invited keynotes, who will be given 30 minutes to speak plus 10
 for discussion. The program is available as a Google Calendar [here](/programa#programa).
 
