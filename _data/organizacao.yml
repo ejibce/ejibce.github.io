@@ -1,44 +1,54 @@
-﻿-   name: Irina Moreira
+﻿-   name: Sérgio F. Sousa
+    position: BioSIM, REQUIMTE/FMUP
+    url: http://www.fc.up.pt/pessoas/sergio.sousa/
+    avatar: /images/pessoas/foto_sergio_sousa.png
+
+-   name: Nuno S. Cerqueira
+    position: BioSIM, REQUIMTE/FMUP
+    url: http://web.fc.up.pt/pessoas/nscerque/doku.php/home
+    avatar: /images/pessoas/foto_nuno_cerqueira.png
+
+-   name: Carla Teixeira
+    position: BioSIM, REQUIMTE/FMUP
+    url: https://www.requimte.pt/ucibio/people/carla-silvia-silva-teixeira
+    avatar: /images/pessoas/foto_carla_teixeira.jpg
+
+-   name: Henrique Fernandes
+    position: BioSIM, REQUIMTE/FMUP
+    url: https://www.requimte.pt/ucibio/people/henrique-fernandes
+    avatar: /images/pessoas/foto_henrique_fernandes.jpg
+
+-   name: Juliana Rocha
+    position: BioSIM, REQUIMTE/FMUP
+    url: https://www.requimte.pt/ucibio/people/juliana-rocha
+    avatar: /images/pessoas/foto_juliana_rocha.jpg
+
+-   name: André Pina
+    position: BioSIM, REQUIMTE/FMUP
+    url: https://www.linkedin.com/in/andrefpina/
+    avatar: /images/pessoas/foto_andre_pina.jpg
+
+-   name: Tatiana Vieira
+    position: BioSIM, REQUIMTE/FMUP
+    url: https://biosim.pt/c-tatiana-f-vieira/
+    avatar: /images/pessoas/foto_tatiana_vieira.jpg
+
+-   name: Cristina Sousa
+    position: BioSIM, DQB/UMinho
+    url: 
+    avatar: /images/pessoas/foto_cristina_sousa.png
+
+-   name: Bruno Pinto
+    position: BioSIM, REQUIMTE/FMUP
+    url:
+    avatar: /images/pessoas/foto_bruno_pinto.png
+
+-   name: Irina Moreira
     position: CNC
     url: http://moreiralab.com
     avatar: /images/pessoas/foto_irina_moreira.jpg
-
--   name: Cândida Silva
-    position: CQC
-    url: https://www.linkedin.com/in/candidasilva/
-    avatar: /images/pessoas/foto_candida_silva.jpg
-
--   name: Carlos Simões
-    position: BSIM<sup>2</sup>
-    url: https://pt.linkedin.com/in/carlosjvsimoes
-    avatar: /images/pessoas/foto_carlos_simoes.jpg
 
 -   name: António Preto
     position: CNC
     url: https://www.linkedin.com/in/ant%C3%B3nio-preto-905311b6/
     avatar: /images/pessoas/foto_antonio_gomes.png
-
--   name: José Almeida
-    position: EBI
-    url: https://www.linkedin.com/in/jos%C3%A9-guilherme-almeida-079541101/
-    avatar: /images/pessoas/foto_jose_almeida.jpg
-
--   name: Carlos Barreto
-    position: CNC
-    url: https://www.linkedin.com/in/carlos-barreto-27ab8a10a/
-    avatar: /images/pessoas/foto_carlos_barreto.jpg
-
--   name: Alexandra Carvalho
-    position: CNC
-    url: https://www.linkedin.com/in/alexandra-carvalho-58198a8/
-    avatar: /images/pessoas/foto_alexandra_carvalho.png
-
--   name: Rita Melo
-    position: CNC
-    url: https://www.linkedin.com/in/rita-melo-9653aaa/
-    avatar: /images/pessoas/foto_rita_melo.png
-
--   name: Pedro Filipe
-    position: UC
-    url: https://www.linkedin.com/in/pedro-matos-filipe/
-    avatar: /images/pessoas/foto_pedro_filipe.jpg
