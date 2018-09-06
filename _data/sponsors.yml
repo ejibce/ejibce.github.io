@@ -7,17 +7,17 @@
 #    url: http://www.bsimsquare.com
 #    avatar: /images/sponsors/logo_BSIM2.jpg
 
--   name: CNC
-    url: http://www.cnbc.pt/
-    avatar: /images/sponsors/logo_CNC.jpg
-
--   name: FLAD
-    url: http://www.flad.pt/
-    avatar: /images/sponsors/logo_flad.jpg
-
--   name: FCTUC
-    url: https://www.uc.pt/fctuc
-    avatar: /images/sponsors/logo_fctuc.jpg
+#-   name: CNC
+#    url: http://www.cnbc.pt/
+#    avatar: /images/sponsors/logo_CNC.jpg
+#
+#-   name: FLAD
+#    url: http://www.flad.pt/
+#    avatar: /images/sponsors/logo_flad.jpg
+#
+#-   name: FCTUC
+#    url: https://www.uc.pt/fctuc
+#    avatar: /images/sponsors/logo_fctuc.jpg
 
 #-   name: CQC
 #    url: http://www.uc.pt/fctuc/dquimica/Investigacao/CQC
@@ -47,12 +47,22 @@
 #    url: http://www.patents.pt/
 #    avatar: /images/sponsors/logo_PATENTS.jpg
 
--   name: UC
-    url: http://www.uc.pt
-    avatar: /images/sponsors/logo_UC.jpg
+#-   name: UC
+#    url: http://www.uc.pt
+#    avatar: /images/sponsors/logo_UC.jpg
+#
+#-   name: JEST
+#    url: http://www.jest.pt/
+#    avatar: /images/sponsors/logo_JEST.png
 
--   name: JEST
-    url: http://www.jest.pt/
-    avatar: /images/sponsors/logo_JEST.png
+-   name: BioSIM
+    url: https://biosim.pt/
+    avatar: /images/sponsors/logo_BioSIM_colorful.png
 
+-   name: Faculdade de Medicina da Universidade do Porto
+    url: https://sigarra.up.pt/fmup/pt/web_page.Inicial
+    avatar: /images/sponsors/logo_fmup.png
 
+-   name: UCIBIO@REQUIMTE
+    url: https://www.requimte.pt/ucibio/
+    avatar: /images/sponsors/logo_ucibio.png
