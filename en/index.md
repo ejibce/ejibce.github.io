@@ -65,5 +65,5 @@ development always present in his work. He is currently the main developer of th
 All materials and services on this website are provided without warranties. The content published in these
 pages may contain errors for which the organization assumes no liability or responsibility. The content is
 also subject to periodic changes without the duty of notice. Any doubts and questions should be addressed to
-the organization by email (ejibce@gmail.com). Registration to this event implies acceptance of these
+the organization by email (ejibce@biosim.pt). Registration to this event implies acceptance of these
 conditions.

@@ -16,7 +16,8 @@ O EJIBCE 2018 continua o formato das edições anteriores, apostando num número
 
 <p style="min-height: 130px; text-indent: 0;">
 <img src="/images/pessoas/foto_diogo_martins.jpg" class="mugshot" />
-<strong>Diogo Santos-Martins</strong> concluiu o Mestrado Integrado em Bioengenharia em 2011, na Faculdade de Engenharia da Universidade do Porto. Defendeu a tese de doutoramento em 2017, sob a orientação da Prof. Maria João Ramos na Faculdade de Ciências da Universidade do Porto. Durante o doutoramento estudou catalise enzimática usando métodos híbridos QM/MM e desenvolveu protocolos de docking molecular para a descoberta de fármacos. Atualmente é post-doc no Scripps Research na Califórnia, no grupo do Prof. Stefano Forli, onde desenvolve software para docking molecular - especificamente o AutoDock.</p>
+<strong>Diogo Santos-Martins</strong> concluiu o Mestrado Integrado em Bioengenharia em 2011, na Faculdade de Engenharia da Universidade do Porto. Defendeu a tese de doutoramento em 2017 na Faculdade de Ciencias da Universidade do Porto, sob a orientação da Prof. Maria João Ramos e tendo como co-orientador o Prof. Arthur Olson do Scripps Research na California.
+Durante o doutoramento estudou catalise enzimática usando métodos híbridos QM/MM e desenvolveu protocolos de docking molecular para a descoberta de fármacos. Atualmente é post-doc no Scripps Research na Califórnia, no grupo do Prof. Stefano Forli, onde desenvolve software para docking molecular - especificamente o AutoDock.</p>
 
 <p style="min-height: 130px; text-indent: 0;">
 <img src="/images/pessoas/foto_joao_henriques.jpg" class="mugshot" />
@@ -26,6 +27,10 @@ O EJIBCE 2018 continua o formato das edições anteriores, apostando num número
 <img src="/images/pessoas/foto_marta_carneiro.jpg" class="mugshot" />
 <strong>Marta G. Carneiro</strong> licenciou-se em Biologia Celular e Molecular na Universidade Nova de Lisboa em 2009. Depois de uma pós-graduação em Bioquímica Estrutural e Funcional na mesma Universidade, mudou-se para a Alemanha para integrar o MSc/PhD programa em Biologia Molecular na International Max Planck Research School. O interesse em perceber os detalhes que governam interacções moleculares, levaram-na ao estudo da estrutura e dinâmica de proteínas usando resonância magnética nuclear (RMN) durante o doutoramento no grupo do Prof. Christian Griesinger (MPI-bpc, Göttingen, Alemanha). Desde 2016, a Marta é investigadora na ZoBio B.V. (www.zobio.com), uma empresa que presta serviços de investigação a terceiros, onde aplica biologia estrutural por RMN para apoiar campanhas de descoberta de novos medicamentos.</p>
 
+<p style="min-height: 130px; text-indent: 0;">
+<img src="/images/pessoas/foto_joana_pereira.jpg" class="mugshot" />
+<strong>Joana Pereira</strong> estudou Bioquímica na Faculdade de Ciências da Universidade do Porto (BSc 2010 e MSc 2012). Durante o seu tempo neste Universidade, trabalhou com o Prof. Agostinho Antunes no Laboratório de Ecotoxicologia, Genómica e Evolução (LEGE) do Centro Interdisciplinar de Investigação Marinha e Ambiental (CIIMAR), aplicando métodos de evolução molecular no estudo da história evolutiva de proteínas envolvidas no desenvolvimento embrionário de vertebrados. Em 2012 mudou-se para Hamburgo na Alemanha para integrar o programa doutoral do Laboratório Europeu de Biologia Molecular (EMBL), onde trabalhou sob a supervisão do Dr. Victor Lamzin no desenvolvimento de métodos computacionais para a construção e validação automáticas de modelos tridimensionais de proteínas a partir de dados experimentais de cristalografia de raios-x. Desde Janeiro de 2017 é investigadora de pós-doutoramento no grupo do Prof. Andrei Lupas no departamento de Evolução de Proteínas do Instituto Max Planck para a Biologia do Desenvolvimento. Aqui tem como principal objecto de estudo o papel de diferentes mecanismos genéticos na origem e evolução de diferentes protein folds, combinando design computacional com o estudo das relações de homologia de diferentes famílias de proteínas.
+</p>
 
 ## Programa
-soon...
+<img src="/images/programa.jpg" width="50%" height="50%"/>

@@ -6,8 +6,8 @@ tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: feature-REGISTO.jpg
-  credit: EJIBCE 2013
+  feature: feature-registo-2018.jpg
+  credit: EJIBCE 2017
 ---
 
 
