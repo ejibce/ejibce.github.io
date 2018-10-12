@@ -15,11 +15,11 @@
 - title: Registo
   url: /registo/
 
-- title: Livro de Resumos
-  url: /assets/files/EJIBCE_2017.pdf
+#- title: Livro de Resumos
+#  url: /assets/files/EJIBCE_2017.pdf
 
-- title: "[English]"
-  url: /en/
+#- title: "[English]"
+#  url: /en/
 
 #
 # - title: Theme Setup

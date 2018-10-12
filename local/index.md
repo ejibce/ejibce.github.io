@@ -6,15 +6,34 @@ tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: feature-IPN.jpg
-  credit: Photo by Danilo Pavone
+  feature: cim-fmup.jpeg
+  credit: Photo by FMUP
 ---
 
-O EJIBCE 2017 terá lugar no [Departamento de Física da Universidade de Coimbra](http://www.fis.uc.pt/), em Coimbra.
+O EJIBCE 2018 terá lugar no [Centro de Investigação Médica da Faculdade de Medicina da Universidade do Porto](https://sigarra.up.pt/fmup/pt/instal_geral.edificio_view?pv_id=1382), no Porto.
 
-# Como chegar
-Para chegar à Universidade da forma mais rápida (cerca de 15 minutos) e com o menor número de transbordos a partir da Estação de Coimbra B, apanhe a linha 5 (com autocarros a cada 20 minutos) na paragem junto à estação e saia na quinta paragem (Arcos do jardim), a partir daí, encaminhe-se para o centro do Pólo I Universitário, até chegar ao Departamento de Física, na Rua Larga.
+### Morada
+Centro de Investigação Médica da Faculdade de Medicina da Universidade do Porto  
+Alameda Professor Hernani Monteiro  
+4200-319 Porto  
+Portugal
+
+# Como chegar?
+
+### Comboio e Metro
+
+1.	Comboio até Porto – São Bento.  
+2.	Apanhar o Metro na estação São Bento (linha amarela) no sentido Hospital de S. João.  
+3.	Sair na estação IPO.  
+4.	5 minutos a pé até ao CIM-FMUP.  
+  
+<img src="/images/mapa.jpg" width="40%" height="40%"/>
+
+### Carro
+Coordenadas GPS: N 41.1797232 | O 8.5997561
 
 ## Localização no Mapa
 
-<div style="width: 100%"><iframe width="100%" height="600" src="https://www.mapsdirections.info/en/custom-google-maps/map.php?width=100%&height=600&hl=ru&q=Departamento%20de%20F%C3%ADsica%2C%20Coimbra+(EJIBCE%20Location)&ie=UTF8&t=&z=15&iwloc=A&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.mapsdirections.info/en/custom-google-maps/">Create Google Map</a> by <a href="https://www.mapsdirections.info/en/">Measure area on map</a></iframe></div><br />
+<div style="width: 100%"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-8.602883331477644%2C41.17757774225279%2C-8.5964996740222%2C41.18027887480364&amp;layer=transportmap&amp;marker=41.17892832245272%2C-8.59969150274992" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=41.17893&amp;mlon=-8.59969#map=18/41.17893/-8.59969&amp;layers=TN">Ver mapa maior</a></small></div><br />
+
+[See more](https://biosim.pt/how-to-arrive/)
