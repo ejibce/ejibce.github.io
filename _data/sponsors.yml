@@ -67,6 +67,18 @@
     url: https://www.requimte.pt/ucibio/
     avatar: /images/sponsors/logo_ucibio.png
 
+-   name: Castelbel
+    url: https://www.castelbel.com/pt/
+    avatar: /images/sponsors/logo_castelbel.png
+
+-   name: Universidade do Porto
+    url: https://sigarra.up.pt/up/pt/web_base.gera_pagina?p_pagina=home
+    avatar: /images/sponsors/logo_uporto.png
+
+-   name: Banco Santander
+    url: https://www.santandertotta.pt/pt_PT/Particulares.html
+    avatar: /images/sponsors/logo_santander.png
+
 -   name: LabOrders
     url: https://www.laborders.com
     avatar: /images/sponsors/logo_laborders.png
