@@ -15,6 +15,11 @@ O EJIBCE 2018 continua o formato das edições anteriores, apostando num número
 ## Oradores Convidados
 
 <p style="min-height: 130px; text-indent: 0;">
+<img src="/images/pessoas/foto_ana_newton.png" class="mugshot" />
+<strong>Ana S. Newton</strong> licenciou-se em Química na Faculdade de Ciências da Universidade Lisboa em 2007. É Doutourada em Química Farmacêutica e Terapêutica pela Faculdade de Farmácia da Universidade de Lisboa desde 2013 sob a orientação do Prof. Rui Moreira e da Prof. Rita Guedes.
+O seu contínuo interesse pela descoberta do fármaco e pela química medicinal com o auxílio de métodos computacionais, levaram-na a fazer o seu pós-doutoramento na Universidade de Yale, no grupo do Prof. William Jorgensen. Actualmente ocupa a posição de Associate Research Scientist na mesma Universidade, onde lidera dois projetos de pesquisa colaborativa para projetar inibidores de moléculas pequenas potentes, seguras, facilmente administráveis e de ação prolongada que podem reduzir ou eliminar o crescimento do cancro no sangue e o cancro de pele. A abordagem combina tecnologia avançada de design molecular, química orgânica, análise biológica e determinação cristalográfica de estruturas das moléculas projetadas, ligadas ao seu alvo proteico.</p>
+
+<p style="min-height: 130px; text-indent: 0;">
 <img src="/images/pessoas/foto_diogo_martins.jpg" class="mugshot" />
 <strong>Diogo Santos-Martins</strong> concluiu o Mestrado Integrado em Bioengenharia em 2011, na Faculdade de Engenharia da Universidade do Porto. Defendeu a tese de doutoramento em 2017 na Faculdade de Ciencias da Universidade do Porto, sob a orientação da Prof. Maria João Ramos e tendo como co-orientador o Prof. Arthur Olson do Scripps Research na California.
 Durante o doutoramento estudou catalise enzimática usando métodos híbridos QM/MM e desenvolveu protocolos de docking molecular para a descoberta de fármacos. Atualmente é post-doc no Scripps Research na Califórnia, no grupo do Prof. Stefano Forli, onde desenvolve software para docking molecular - especificamente o AutoDock.</p>
@@ -33,4 +38,5 @@ Durante o doutoramento estudou catalise enzimática usando métodos híbridos QM
 </p>
 
 ## Programa
-<img src="/images/programa.jpg" width="50%" height="50%"/>
+<object data="/images/programa.pdf" width="1000" height="500" type='application/pdf'/>
+#<img src="/images/programa.jpg" width="50%" height="50%"/>
