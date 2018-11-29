@@ -1,7 +1,7 @@
 ---
 layout: acerca
 title: Acerca
-excerpt: "Informações Gerais sobre o EJIBCE 2017"
+excerpt: "Informações Gerais sobre o EJIBCE 2018"
 tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
@@ -20,6 +20,9 @@ A partilha e discussão de ideias são as sementes para uma comunidade científi
 Este contacto com Portugal torna-se importante no momento de voltar ao país após um doutoramento, um pós-doutoramento, ou qualquer outro período prolongado no estrangeiro. Por outro lado, há quem queira continuar no estrangeiro mas simultaneamente cultivar uma relação de proximidade com a ciência em Portugal. Mas, que grupos existem na área da Biologia Computacional Estrutural em Portugal? E que investigação é levada a cabo nesses grupos? As perguntas surgem naturalmente e as respostas nem sempre são simples de encontrar.
 
 Esta iniciativa pretende dar resposta a algumas destas perguntas. Pretende dar a conhecer o que de melhor se faz na área da Biologia Computacional Estrutural em Portugal, e por outro lado, dar a conhecer o que estudam investigadores portugueses radicados no estrangeiro. Desta forma, queremos proporcionar um espaço onde se possam divulgar e discutir projectos e resultados, com vista a estimular colaborações (a nível nacional e internacional) e a alargar os horizontes da Biologia Computacional Estrutural em Português.
+
+## Prémios
+Em parceira com a editora MDPI e a revista científica Molecules, serão atribuídos prémios aos melhores posters e comunicações orais do EJIBCE 2018.
 
 ## Termo de Responsabilidade
 Todo o material e serviços nesta página web são prestados sem qualquer garantia. O conteúdo publicado nestas páginas pode conter erros pelos quais a organização não se responsabiliza. O conteúdo está também sujeito a mudanças periódicas sem direito a pré-aviso. Quaisquer dúvidas e questões devem ser endereçadas à organização por correio electrónico (ejibce@biosim.pt). O registo neste evento implica a aceitação destas condições.

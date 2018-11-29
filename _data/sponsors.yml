@@ -71,6 +71,10 @@
     url: https://www.castelbel.com/pt/
     avatar: /images/sponsors/logo_castelbel.png
 
+-   name: Molecules - MDPI
+    url: https://www.mdpi.com/journal/molecules
+    avatar: /images/sponsors/logo_molecules.png
+
 -   name: Universidade do Porto
     url: https://sigarra.up.pt/up/pt/web_base.gera_pagina?p_pagina=home
     avatar: /images/sponsors/logo_uporto.png
@@ -82,6 +86,10 @@
 -   name: LabOrders
     url: https://www.laborders.com
     avatar: /images/sponsors/logo_laborders.png
+
+-   name: NEXUS
+    url: https://www.mdpi.com/journal/molecules
+    avatar: /images/sponsors/logo_nexus.png
 
 -   name: FCiências
     url: https://www.fciencias.com
