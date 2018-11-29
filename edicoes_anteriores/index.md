@@ -1,5 +1,5 @@
 ---
-layout: edicoes_anteriores
+layout: acerca
 title: Edições Anteiores
 excerpt: "Edições Anteriores do EJIBCE"
 tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST]
