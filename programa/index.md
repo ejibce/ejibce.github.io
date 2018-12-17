@@ -38,5 +38,5 @@ Durante o doutoramento estudou catalise enzimática usando métodos híbridos QM
 </p>
 
 ## Programa
-<object data="/images/programa.pdf" width="1000" height="500" type='application/pdf'/>
+<object data="/images/programa_14_12_2018.pdf" width="750" height="500" type='application/pdf'/>
 #<img src="/images/programa.jpg" width="50%" height="50%"/>

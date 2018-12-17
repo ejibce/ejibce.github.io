@@ -91,6 +91,10 @@
     url: https://www.mdpi.com/journal/molecules
     avatar: /images/sponsors/logo_nexus.png
 
+-   name: IPDJ
+    url: http://www.ipdj.pt/
+    avatar: /images/sponsors/logo_ipdj.jpg
+
 -   name: FCiências
     url: https://www.fciencias.com
     avatar: /images/sponsors/logo_fciencias.png
@@ -98,3 +102,7 @@
 -   name: Metro do Porto
     url: https://www.metrodoporto.pt
     avatar: /images/sponsors/logo_metroporto.png
+
+-   name: Sociedade Portuguesa de Química
+    url: https://www.spq.pt/
+    avatar: /images/sponsors/logo_spq.jpeg
