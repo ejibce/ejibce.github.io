@@ -38,7 +38,7 @@ Durante o doutoramento estudou catalise enzimática usando métodos híbridos QM
 </p>
 
 ## Sessões de Poster
-<div width="750" height="500"><object data="/images/PosterSessions.pdf" width="750" height="500" type='application/pdf'/></div>
+<div width="750" height="500" postition="relative"><object id="poster" data="/images/PosterSessions.pdf" width="750" height="500" type='application/pdf'/></div>
 
 ## Programa
-<div width="750" height="500"><object data="/images/programa_14_12_2018.pdf" width="750" height="500" type='application/pdf'/></div>
+<div width="750" height="500" postition="relative"><object id="programa" data="/images/programa_14_12_2018.pdf" width="750" height="500" type='application/pdf'/></div>
