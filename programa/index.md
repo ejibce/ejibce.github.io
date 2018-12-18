@@ -38,7 +38,80 @@ Durante o doutoramento estudou catalise enzimática usando métodos híbridos QM
 </p>
 
 ## Sessões de Poster
-<object data="/images/PosterSessions.pdf" width="750" height="500" type='application/pdf'/>
+### Sessão de Poster 1
+10:45 - 11:15 & 12:25 - 13:30
+P1. A multi-target approach for hormone-dependent breast cancer:
+estrogen receptors and aromatase
+
+	Almeida, C., Oliveira, A., Amaral C., Ramos, M. J., Correia-da-Silva, G., Teixeira, N. and Fernandes, P. A.
+
+
+P2. Understanding Structural and Dynamic Differences of GHSRGq and GHSR-Arr Complexes
+
+	Barreto, C., Melo, R., Magalhães, P. R., Renault, P., Machuqueiro, M., Moreira, I. S.
+
+
+P3. The influence of conformational diversity on enzyme catalysis
+
+Calixto, A. R., Ramos, M. J. and Fernandes, P. A.
+
+
+P4. Coarse grain-molecular dynamics simulations of cyclic peptide nanotubes on biological membranes for different negative charge content
+
+Calvelo, M., Claro, B., Bastos, M., Garcia-Fandiño, R.
+
+
+P5. From All Atoms to Coarse Grain: Simulating the Molecular Imprinting Process of a Silica Polymer
+
+	Concu, R., Cordeiro, M. N.
+
+
+P6. Estimation of solvation free energies by continuum methods: How to tackle halogenated species?
+
+	Nunes, R. and Costa, P. J.
+
+
+P7. The pH-dependent membrane stability and insertion mechanism of GALA peptide
+
+Dias, J. R., Silva, T., Machuqueiro, M.
+
+
+P8. Is the 5,10-methylenetetrahydrofolate cofactor through a non-enzymatic or enzymatic mechanism?
+
+	Fernandes, H. S., Sousa, S. F., and Cerqueira, N. M. F. S. A.
+
+
+P9. Text Mining for Recognition of Cancer Biomarkers
+Gaspar, A. C., Pires, M. N., Preto, A. J., Moreira, I. S.
+
+P10. The importance of unstructured termini in the aggregation cascade of beta-2-microglobulin: insights from molecular simulations of D76N mutant
+	Loureiro, R.J.S., Vila-Viçosa, D., Machuqueiro, M., Shakhnovich, E.I, Faísca,P.F.N.
+
+
+P11. Influence of codon 35 amino acid insertion in HIV-1 protease: insights from molecular dynamics
+Luís, J. P, Mata, A. I., Alves, N. G., Simões, C. J. V., Pereira-Vaz, J., Vaz, D.C., Duque, V. and Brito, R. M. M.
+
+P12. pH effects on PG/PC and PS/PC lipid binary mixtures: a CpHMD study
+	Magalhães, P. R., Vila-Viçosa, D., Silva, T., Machuqueiro, M.
+
+P13. Creation of a Structural Database for Inhibition of BioFilm Formation
+	Magalhães, R. P., Vieira, T. F., Fernandes, H. S., Cerqueira, N. M. F. S. A., Melo,A., Simões, M., Sousa, S. F.
+
+P14. MENSAdb: A Major Structural Statistical Analysis of Membrane Protein Dimers
+Matos-Filipe, P., Preto, A. J., Almeida, A. J., Koukos, P. I., Bonvin, A. M. J. J., Moreira, I. S.
+
+
+P15. Dynamical Rearrangement of Human Epidermal Growth Factor Receptor 2 upon Antibody Binding: Effects on the Dimerization
+	Melo R., Almeida J. G., Melo A., Cordeiro M. N. D. S., Gumus, Z. H., Cabo-Verde S., Moreira I. S., Correia J. D. G.
+
+P16. Drug-Target Interaction Prediction: End-to-End Deep Learning Approach
+	Monteiro, N.R.C, Arrais J.P., Ribeiro B.
+
+P17. In silico design of halogenated carbohydrate mimetics as potential halogen-bonding ligands
+	Nunes, R., Xavier, N. M., and Costa, P. J.
+
+P18. New phosphorylated amino acid parametrization to correctly reproduce their acid/base equilibria, including in protein binding events
+	Oliveira, N. F. B. M., Pires, I. D. S., Machuqueiro, M.
 
 ## Programa
 <div><object data="/images/programa_14_12_2018.pdf" width="750" height="500" type='application/pdf'/></div>
