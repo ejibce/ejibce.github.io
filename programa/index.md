@@ -37,6 +37,9 @@ Durante o doutoramento estudou catalise enzimática usando métodos híbridos QM
 <strong>Joana Pereira</strong> estudou Bioquímica na Faculdade de Ciências da Universidade do Porto (BSc 2010 e MSc 2012). Durante o seu tempo neste Universidade, trabalhou com o Prof. Agostinho Antunes no Laboratório de Ecotoxicologia, Genómica e Evolução (LEGE) do Centro Interdisciplinar de Investigação Marinha e Ambiental (CIIMAR), aplicando métodos de evolução molecular no estudo da história evolutiva de proteínas envolvidas no desenvolvimento embrionário de vertebrados. Em 2012 mudou-se para Hamburgo na Alemanha para integrar o programa doutoral do Laboratório Europeu de Biologia Molecular (EMBL), onde trabalhou sob a supervisão do Dr. Victor Lamzin no desenvolvimento de métodos computacionais para a construção e validação automáticas de modelos tridimensionais de proteínas a partir de dados experimentais de cristalografia de raios-x. Desde Janeiro de 2017 é investigadora de pós-doutoramento no grupo do Prof. Andrei Lupas no departamento de Evolução de Proteínas do Instituto Max Planck para a Biologia do Desenvolvimento. Aqui tem como principal objecto de estudo o papel de diferentes mecanismos genéticos na origem e evolução de diferentes protein folds, combinando design computacional com o estudo das relações de homologia de diferentes famílias de proteínas.
 </p>
 
+## Sessões de Poster
+Ver distribuição dos posters pelas duas sessões [aqui](/images/PosterSessions.pdf).
+
+
 ## Programa
-<object data="/images/programa_14_12_2018.pdf" width="750" height="500" type='application/pdf'/>
-#<img src="/images/programa.jpg" width="50%" height="50%"/>
+<div width="750" height="500" postition="relative"><object id="programa" data="/images/programa_14_12_2018.pdf" width="750" height="500" type='application/pdf'/></div>
