@@ -38,7 +38,7 @@ Durante o doutoramento estudou catalise enzimática usando métodos híbridos QM
 </p>
 
 ## Sessões de Poster
-Ver distribuição dos posters pelas duas sessões de posters [aqui](/images/PosterSessions.pdf).
+Ver distribuição dos posters pelas duas sessões [aqui](/images/PosterSessions.pdf).
 
 
 ## Programa
