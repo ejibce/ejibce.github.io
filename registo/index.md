@@ -6,9 +6,7 @@ tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: feature-registo-2018.jpg
-  credit: EJIBCE 2017
+  feature: feature-REGISTO-2.png
 ---
 
-
-<div style="width: 100%"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfAW2cim4pUocW4glEbdLEZRmJSHUymoQWe2JGmzEwL9U2f6w/viewform?embedded=true" width="100%" height="450" frameborder="0" marginheight="0" marginwidth="0">A carregar...</iframe></div>
+O registo será aberto em breve.

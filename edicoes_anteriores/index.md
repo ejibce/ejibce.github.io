@@ -7,10 +7,15 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
   feature: photo_2017.jpg
-  credit: EJIBCE 2013
+  credit: EJIBCE 2017
 ---
 
-Nesta página podem ser encontrados os livros de resumos (abstracts) das cinco edições anteriores do EJIBCE.
+Nesta página podem ser encontrados os livros de resumos (abstracts) das edições anteriores do EJIBCE.
+
+## Livro de Resumos EJIBCE 2018
+Porto, 21 de dezembro de 2018
+
+[Download](/images/abstracts_2018.pdf)
 
 ## Livro de Resumos EJIBCE 2017
 Coimbra, 22 de dezembro de 2017

@@ -1,39 +1,53 @@
 ---
 layout: page
 title: Localização
-excerpt: "Informações Gerais de Localização do EJIBCE 2017"
-tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST]
+excerpt: "Informações Gerais de Localização do EJIBCE 2019"
+tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCUL]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: cim-fmup.jpeg
-  credit: Photo by FMUP
+  feature: fcul_c1.png
 ---
 
-O EJIBCE 2018 terá lugar no [Centro de Investigação Médica da Faculdade de Medicina da Universidade do Porto](https://sigarra.up.pt/fmup/pt/instal_geral.edificio_view?pv_id=1382), no Porto.
+O EJIBCE 2019 terá lugar na [Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/pt).
 
 ### Morada
-Centro de Investigação Médica da Faculdade de Medicina da Universidade do Porto  
-Alameda Professor Hernani Monteiro  
-4200-319 Porto  
+Faculdade de Ciências da Universidade de Lisboa
+
+Campo Grande
+
+1749-016 Lisboa
+
 Portugal
 
 # Como chegar?
+O acesso à FCUL é fácil e rápido, utilizando o autocarro, metro, automóvel, ou mesmo bicicleta (ciclovias).
 
-### Comboio e Metro
 
-1.	Comboio até Porto – São Bento.  
-2.	Apanhar o Metro na estação São Bento (linha amarela) no sentido Hospital de S. João.  
-3.	Sair na estação IPO.  
-4.	5 minutos a pé até ao CIM-FMUP.  
-  
-<img src="/images/mapa.jpg" width="40%" height="40%"/>
+### Autocarro
+[Carris](http://www.carris.pt/): 701, 717, 731, 735, 736, 738, 747, 750, 755, 764, 767, 768, 778, 783, 796, 798
 
-### Carro
-Coordenadas GPS: N 41.1797232 | O 8.5997561
+[Rodoviária de Lisboa](http://www.rodoviariadelisboa.pt/): 201, 300, 311, 312, 313, 315, 329, 331, 333, 334, 335, 336, 337, 344, 353, 354, 901, 931
 
-## Localização no Mapa
+[Transportes Sul do Tejo](https://www.tsuldotejo.pt/): 176
 
-<div style="width: 100%"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-8.602883331477644%2C41.17757774225279%2C-8.5964996740222%2C41.18027887480364&amp;layer=transportmap&amp;marker=41.17892832245272%2C-8.59969150274992" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=41.17893&amp;mlon=-8.59969#map=18/41.17893/-8.59969&amp;layers=TN">Ver mapa maior</a></small></div><br />
+### Metro
+Estações da [Cidade Universitária](http://www.metrolisboa.pt/) e do [Campo Grande](http://www.metrolisboa.pt/)
 
-[See more](https://biosim.pt/how-to-arrive/)
+### Comboio
+Estação de [Entrecampos](https://www.cp.pt/passageiros/pt/consultar-horarios/estacoes/entrecampos)
+
+### Bicicleta
+Estação [Gira 481](https://www.gira-bicicletasdelisboa.pt)
+
+### Automóvel
+2.ª circular - saída do Campo Grande / Cidade Universitária
+
+
+# Localização no Mapa
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2511.7095513051713!2d-9.15685177634004!3d38.757306051854506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1932fcd3afdbc9%3A0x1ae21e6ea0c00c60!2sCampo+Grande+C1%2C+Lisboa!5e1!3m2!1sen!2spt!4v1558531030116!5m2!1sen!2spt" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+### Coordenadas GPS
+38.75720299384127,-9.15664458353865
+
+N 38° 45' 25.931'' W 9° 9' 23.92''
