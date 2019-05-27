@@ -6,8 +6,8 @@ tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: photo_2017.jpg
-  credit: EJIBCE 2017
+  feature: ejibce_2018.jpg
+  credit: EJIBCE 2018
 ---
 
 Nesta página podem ser encontrados os livros de resumos (abstracts) das edições anteriores do EJIBCE.

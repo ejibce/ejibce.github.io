@@ -1,10 +1,15 @@
-#-   name: Walter Rocchia
-#    position: Italian Institute of Technology, Genoa, Italy
-#    url: https://www.iit.it/people/walter-rocchia
-#    avatar: /images/pessoas/foto_walter_rocchia.png
-#
 #-   name: Chris Oostenbrink
 #    position: Institute of Molecular Modeling and Simulation, Vienna, Austria
 #    url: https://boku.ac.at/en/personen/person/A4DA1494503D9F28
 #    avatar: /images/pessoas/foto_chris_oostenbrink.png
+
+-   name: Walter Rocchia
+    position: Italian Institute of Technology, Genoa, Italy
+    url: https://www.iit.it/people/walter-rocchia
+    avatar: /images/pessoas/foto_walter_rocchia.png
+
+#-   name: Alexandre Bonvin
+#    position: Utrecht University, Utrecht, Netherlands
+#    url: https://www.uu.nl/staff/amjjbonvin
+#    avatar: /images/pessoas/foto_alexandre_bonvin.jpg
 

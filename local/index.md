@@ -6,7 +6,7 @@ tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCUL]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: fcul_c1.png
+  feature: fcul.png
 ---
 
 O EJIBCE 2019 terá lugar na [Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/pt).

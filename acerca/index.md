@@ -6,8 +6,8 @@ tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: photo_2017.jpg
-  credit: EJIBCE 2017
+  feature: feature-ACERCA.jpg
+  credit: EJIBCE 2013
 ---
 
 O Encontro de Jovens Investigadores de Biologia Computacional Estrutural (EJIBCE) tem como objectivo
