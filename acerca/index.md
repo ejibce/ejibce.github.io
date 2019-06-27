@@ -23,3 +23,6 @@ Esta iniciativa pretende dar resposta a algumas destas perguntas. Pretende dar a
 
 ## Termo de Responsabilidade
 Todo o material e serviços nesta página web são prestados sem qualquer garantia. O conteúdo publicado nestas páginas pode conter erros pelos quais a organização não se responsabiliza. O conteúdo está também sujeito a mudanças periódicas sem direito a pré-aviso. Quaisquer dúvidas e questões devem ser endereçadas à organização por correio electrónico (ejibce@gmail.com). O registo neste evento implica a aceitação destas condições.
+
+## Contacto
+ejibce@gmail.com
