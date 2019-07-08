@@ -1,14 +1,4 @@
-﻿-   name: Miguel Machuqueiro
-    position: BioISI, FCUL
-    url: http://mms.rd.ciencias.ulisboa.pt/
-    avatar: /images/pessoas/foto_miguel_machuqueiro.png
-
--   name: Paulo J. Costa
-    position: BioISI, FCUL
-    url: http://intheochem.fc.ul.pt/compchem.html
-    avatar: /images/pessoas/foto_paulo_costa.png
-
--   name: Bruno L. Victor
+﻿-   name: Bruno L. Victor
     position: BioISI, FCUL
     url: https://orcid.org/0000-0002-6472-5700
     avatar: /images/pessoas/foto_bruno_victor.png
@@ -18,12 +8,22 @@
     url: http://intheochem.fc.ul.pt/vilavicosa.html
     avatar: /images/pessoas/foto_diogovv.png
 
--   name: Pedro Magalhães
-    position: BioISI, FCUL
-    url:
-    avatar: /images/pessoas/foto_pedro_magalhaes.png
-
 -   name: Irina Moreira
     position: CNC
     url: http://moreiralab.com
     avatar: /images/pessoas/foto_irina_moreira.jpg
+
+-   name: Miguel Machuqueiro
+    position: BioISI, FCUL
+    url: http://mms.rd.ciencias.ulisboa.pt/
+    avatar: /images/pessoas/foto_miguel_machuqueiro.png
+
+-   name: Paulo J. Costa
+    position: BioISI, FCUL
+    url: http://intheochem.fc.ul.pt/compchem.html
+    avatar: /images/pessoas/foto_paulo_costa.png
+
+-   name: Pedro Magalhães
+    position: BioISI, FCUL
+    url:
+    avatar: /images/pessoas/foto_pedro_magalhaes.png
