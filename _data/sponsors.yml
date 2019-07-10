@@ -1,7 +1,11 @@
 # Keep avatars at 200 px width
-#-   name: ANBIOQ
-#    url: http://www.anbioq.org
-#    avatar: /images/sponsors/logo_ANBIOQ.jpg
+-   name: BioISI
+    url: http://bioisi.pt/
+    avatar: /images/sponsors/logo_BioISI.png
+
+-   name: Wallfuture
+    url: https://www.wallfuture.com/
+    avatar: /images/sponsors/logo_wallfuture.png
 
 #-   name: BSIM<sup>2</sup>
 #    url: http://www.bsimsquare.com
