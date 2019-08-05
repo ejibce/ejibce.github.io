@@ -10,9 +10,7 @@ image:
 ---
 
 ## Informações Gerais
-O EJIBCE 2019 continua o formato das edições anteriores, apostando num número reduzido de comunicações orais para fomentar a discussão e troca de ideias. Ao longo do dia, 11 investigadores apresentarão os seus resultados. Destes 11, 7 serão seleccionados, entre os resumos submetidos, pela comissão científica com base na qualidade e originalidade do trabalho, e terão à sua disposição 15 minutos seguidos de uma curta discussão. As restantes 4 comunicações serão feitas por investigadores convidados, que terão cerca de 30 minutos e 10 de discussão.
-
-Os oradores convidados serão revelados durante as próximas semanas.
+O EJIBCE 2019 continua o formato das edições anteriores, apostando num número reduzido de comunicações orais para fomentar a discussão e troca de ideias. Ao longo do dia, 12 investigadores apresentarão os seus resultados. Destes 12, 7 serão seleccionados, entre os resumos submetidos, pela comissão científica com base na qualidade e originalidade do trabalho, e terão à sua disposição 15 minutos seguidos de uma curta discussão. As restantes 5 comunicações serão feitas por investigadores convidados, que terão cerca de 30 minutos e 10 de discussão.
 
 ## Oradores Convidados
 <p style="min-height: 130px; text-indent: 0;">
@@ -30,6 +28,10 @@ Os oradores convidados serão revelados durante as próximas semanas.
 <p style="min-height: 130px; text-indent: 0;">
 <img src="/images/pessoas/foto_marta_perez.png" class="mugshot" />
 <strong>Marta A. S. Perez </strong> é doutorada em Química pela Faculdade de Ciências da Universidade do Porto (Lic. 2006, M.Sc. 2008 e Ph.D. 2013).  Os seus trabalhos de graduação foram desenvolvidos sob a supervisão de Maria João Ramos e Pedro Fernandes e incidiram sobre catalise enzimática e de inibição e mutagénese computacional com enzimas relacionadas com cancro e HIV-1. Em 2013, ingressou num pós-doutoramento na Escola Politécnica Federal de Lausanne, Suíça, sob a supervisão de Ursula Röthlisberger. Aqui estudou: 1) conformação de biomoléculas usando dinâmica quântica, em colaboração ativa com grupos de experimentalistas em espectroscopia de infravermelho e 2) desenvolveu e validou algoritmos de genética para otimização de estabilidade proteínas. Atualmente, está num segundo pós-doutoramento no Centro Ludwig de Investigação para cancro abraçando um projeto ambicioso no campo da imunoterapia (PI: Vincent Zoete). </p>
+
+<p style="min-height: 130px; text-indent: 0;">
+<img src="/images/pessoas/foto_sara_campos.jpg" class="mugshot" />
+<strong>Sara Campos </strong> é uma investigadora do ITQB NOVA que se dedica maioritariamente ao desenvolvimento e aplicação de dinâmica molecular a pH constante. Licenciada em Bioquímica pela Universidade de Coimbra, integrou o grupo de Simulação Molecular do ITQB em 2005, onde completou o doutoramento e desenvolveu a sua investigação de pós-doutoramento. Os seus estudos têm abordado temáticas como o misfolding induzido pelo pH, tratamento de gradientes electroquímicos e, mais recentemente, a dimerização dependente do pH da proteína β-lactoglobulina.</p>
 
 ## Programa
 O programa detalhado será anunciado em breve.
