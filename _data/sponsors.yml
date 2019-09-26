@@ -1,4 +1,9 @@
 # Keep avatars at 200 px width
+
+#-   name: Ascenza
+#    url: http://www.sapecagro.pt/internet/asp/home.asp
+#    avatar: /images/sponsors/logo_ascenza.png
+
 -   name: BioISI
     url: http://bioisi.pt/
     avatar: /images/sponsors/logo_BioISI.png

@@ -1,0 +1,83 @@
+
+.bigtable {
+   margin-left: 10%; 
+   margin-top: 5%;
+   position: relative;
+}
+
+
+.even {
+    min-width:400px;
+    text-indent: 4em;
+    width: 90%;
+    border-color:  #474747;
+    
+}
+
+.noborder {
+    border-spacing: 0;
+    border: 2px solid black;
+    margin: -2px;
+    z-index: -1;
+    
+}
+
+.test2 {
+    z-index: 6;
+}
+
+.test {
+    z-index: -1;
+}
+
+.events {
+    line-height: 200%;
+}
+
+.odd {
+    padding-left: 2%;
+    width: 70%;  
+    border-radius: 20% / 50%; 
+    border: 2px solid black;
+    text-align: center;
+    z-index: 6;
+}
+
+.hours {
+    border-collapse: separate;
+    margin-left: 0.1em;
+    position: absolute;
+    z-index: 6;
+    margin-top: -11px;
+    max-width: 50px;
+    font-size: 10pt;
+}
+
+.hours tbody {
+    z-index: 6;
+}
+
+.tr td {
+    font-size: 10pt;
+    z-index: 6;
+}
+
+.grey {
+    background: #474747;
+    color: white;
+}
+
+.yellow {
+    background: #FFAC00;
+    color: white;
+}
+
+.red {
+    background: #D53020;
+    color: white;
+}
+
+.green {
+    background: #5DA95C;
+    color: white;
+}
