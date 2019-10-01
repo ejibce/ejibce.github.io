@@ -2,19 +2,20 @@
 
 -   name: Ascenza
     url: https://www.ascenza.com/
-    avatar: /images/sponsors/logo_ascenza.png
-
+    avatar: /images/sponsors/logo_ASCENZA.jpg
+    
 -   name: BioISI
     url: http://bioisi.pt/
     avatar: /images/sponsors/logo_BioISI.png
 
-#-   name: BSIM Therapeutics
-#    url: https://bsimtx.com/
-#    avatar: /images/sponsors/logo_BSIMTX.png
+-   name: BSIM Therapeutics
+    url: https://bsimtx.com/
+    avatar: /images/sponsors/logo_BSIMTX.png
 
 -   name: Wallfuture
     url: https://www.wallfuture.com/
     avatar: /images/sponsors/logo_wallfuture.png
+    
 
 
 #-   name: CNC
