@@ -1,20 +1,21 @@
 # Keep avatars at 200 px width
 
-#-   name: Ascenza
-#    url: http://www.sapecagro.pt/internet/asp/home.asp
-#    avatar: /images/sponsors/logo_ascenza.png
+-   name: Ascenza
+    url: https://www.ascenza.com/
+    avatar: /images/sponsors/logo_ascenza.png
 
 -   name: BioISI
     url: http://bioisi.pt/
     avatar: /images/sponsors/logo_BioISI.png
 
+-   name: BSIM Therapeutics
+    url: https://bsimtx.com/
+    avatar: /images/sponsors/logo_BSIMTX.png
+
 -   name: Wallfuture
     url: https://www.wallfuture.com/
     avatar: /images/sponsors/logo_wallfuture.png
 
-#-   name: BSIM<sup>2</sup>
-#    url: http://www.bsimsquare.com
-#    avatar: /images/sponsors/logo_BSIM2.jpg
 
 #-   name: CNC
 #    url: http://www.cnbc.pt/
@@ -27,35 +28,35 @@
 #-   name: FCTUC
 #    url: https://www.uc.pt/fctuc
 #    avatar: /images/sponsors/logo_fctuc.jpg
-
+#
 #-   name: CQC
 #    url: http://www.uc.pt/fctuc/dquimica/Investigacao/CQC
 #    avatar: /images/sponsors/logo_CQC.jpg
-
+#
 #-   name: CRESSET
 #    url: http://www.cresset-group.com/
 #    avatar: /images/sponsors/logo_CRESSET.jpg
-
+#
 # -   name: Espectro
 #     url: http://www.espectro.pt/
 #     avatar: /images/sponsors/logo_ESPECTRO.jpg
-
+#
 # -   name: FCT
 #     url: http://www.fct.pt
 #     avatar: /images/sponsors/logo_FCT.jpg
-
+#
 #-   name: IPN
 #    url: http://www.ipn.pt
 #    avatar: /images/sponsors/logo_IPN.jpg
-
+#
 #-   name: LCA-UC
 #    url: http://www.uc.pt/lca/
 #    avatar: /images/sponsors/logo_LCA.jpg
-
+#
 #-   name: Patents.pt
 #    url: http://www.patents.pt/
 #    avatar: /images/sponsors/logo_PATENTS.jpg
-
+#
 #-   name: UC
 #    url: http://www.uc.pt
 #    avatar: /images/sponsors/logo_UC.jpg
@@ -63,7 +64,7 @@
 #-   name: JEST
 #    url: http://www.jest.pt/
 #    avatar: /images/sponsors/logo_JEST.png
-
+#
 #-   name: BioSIM
 #    url: https://biosim.pt/
 #    avatar: /images/sponsors/logo_BioSIM_colorful.png
