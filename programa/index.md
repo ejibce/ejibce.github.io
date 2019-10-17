@@ -10,7 +10,7 @@ image:
 ---
 
 ## Informações Gerais
-O EJIBCE 2019 continua o formato das edições anteriores, apostando num número reduzido de comunicações orais para fomentar a discussão e troca de ideias. Ao longo do dia, 12 investigadores apresentarão os seus resultados. Destes 12, 7 serão seleccionados, entre os resumos submetidos, pela comissão científica com base na qualidade e originalidade do trabalho, e terão à sua disposição 15 minutos seguidos de uma curta discussão. As restantes 5 comunicações serão feitas por investigadores convidados, que terão cerca de 25 minutos e 5 de discussão.
+O EJIBCE 2019 continua o formato das edições anteriores, apostando num número reduzido de comunicações orais para fomentar a discussão e troca de ideias. Ao longo do dia, 12 investigadores apresentarão os seus resultados. Destes 12, 7 serão seleccionados, entre os resumos submetidos, pela comissão científica com base na qualidade e originalidade do trabalho, e terão à sua disposição <strong>15 minutos seguidos de uma curta discussão</strong>. As restantes 5 comunicações serão feitas por investigadores convidados, que terão cerca de <strong>25 minutos e 5 de discussão</strong>.
 
 ## Oradores Convidados
 <p style="min-height: 130px; text-indent: 0;">
