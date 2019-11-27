@@ -9,83 +9,96 @@
 
 <body class="page">
 
-{% include _browser-upgrade.html %}
-
-{% include _navigation_full.html %}
-
-{% if page.image.feature %}
+  {% include _browser-upgrade.html %}
+  
+  {% include _navigation_full.html %}
+  
+  {% if page.image.feature %}
   <div class="image-wrap">
-  <img src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
+    <img src=
+	 {% if page.image.feature contains 'http' %}
+	 "{{ page.image.feature }}"
+	 {% else %}
+	 "{{ site.url }}/images/{{ page.image.feature }}"
+	 {% endif %}
+	 alt="{{ page.title }} feature image">
+    {% if page.image.credit %}
     <span class="image-credit">{{ page.image.credit }}</span>
-  {% endif %}
+    {% endif %}
   </div><!-- /.image-wrap -->
-{% endif %}
-
-<div id="main" role="main">
+  {% endif %}
+  
+  <div id="main" role="main">
     <article class="page">
       <h1>{{ page.title }}</h1>
       <div class="article-wrap">
         {{ content }}
-
+	
         <h3>Comissão Organizadora</h3>
         <ul class="rig columns-3">
-            {% for member in site.data.organizacao %}
-                <li class="boxed">
-                    {% if member.avatar %}
-                        {% assign avatar = member.avatar %}
-                    {% else %}
-                        {% assign avatar = '/images/pessoas/bio-photo.jpg' %}
-                    {% endif %}
-
-                    {% if member.url %}
-                    <a href="{{ member.url }}" target="_blank">
-                        <img class="avatar" src="{{ avatar }}" />
-                    </a>
-                    {% else %}
-                        <img class="avatar" src="{{ avatar }}" />
-                    {% endif %}
-                    <h3>{{ member.name }}</h3>
-                    <a class='mem-position'>{{ member.position }}</a>
-                    {% if member.bio %}
-                        <p class='mem-bio'>{{ member.bio }}</p>
-                    {% endif %}
-                </li>
-            {% endfor %}
+          {% for member in site.data.organizacao %}
+          <li class="boxed">
+            {% if member.avatar %}
+            {% assign avatar = member.avatar %}
+            {% else %}
+            {% assign avatar = '/images/pessoas/bio-photo.jpg' %}
+            {% endif %}
+	    
+            {% if member.url %}
+            <a href="{{ member.url }}" target="_blank">
+              <img class="avatar" src="{{ avatar }}" />
+            </a>
+            {% else %}
+            <img class="avatar" src="{{ avatar }}" />
+            {% endif %}
+            <h3>{{ member.name }}</h3>
+            <a class='mem-position'>{{ member.position }}</a>
+            {% if member.bio %}
+            <p class='mem-bio'>{{ member.bio }}</p>
+            {% endif %}
+          </li>
+          {% endfor %}
         </ul>
-        <hr />
+	
+	<h3>Comissão Organizadora Local</h3>
+        <ul class="rig columns-3">
+          {% for member in site.data.organizacaolocal %}
+          <li class="boxed">
+            <h3>{{ member.name }}</h3>
+            <a class='mem-position'>{{ member.position }}</a>
+            {% if member.bio %}
+            <p class='mem-bio'>{{ member.bio }}</p>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+
         <h3>Comissão Científica</h3>
         <ul class="rig columns-3">
-            {% for member in site.data.cientifico %}
-                <li class="boxed">
-                    {% if member.avatar %}
-                        {% assign avatar = member.avatar %}
-                    {% else %}
-                        {% assign avatar = '/images/pessoas/bio-photo.jpg' %}
-                    {% endif %}
-
-                    {% if member.url %}
-                    <a href="{{ member.url }}" target="_blank">
-                        <img class="avatar" src="{{ avatar }}" />
-                    </a>
-                    {% else %}
-                        <img class="avatar" src="{{ avatar }}" />
-                    {% endif %}
-                    <h3>{{ member.name }}</h3>
-                    <a class='mem-position'>{{ member.position }}</a>
-                    {% if member.bio %}
-                        <p class='mem-bio'>{{ member.bio }}</p>
-                    {% endif %}
-                </li>
-            {% endfor %}
+          {% for member in site.data.cientifico %}
+          <li class="boxed">
+            {% if member.avatar %}
+            {% assign avatar = member.avatar %}
+            {% else %}
+            {% assign avatar = '/images/pessoas/bio-photo.jpg' %}
+            {% endif %}
+	    
+            {% if member.url %}
+            <a href="{{ member.url }}" target="_blank">
+              <img class="avatar" src="{{ avatar }}" />
+            </a>
+            {% else %}
+            <img class="avatar" src="{{ avatar }}" />
+            {% endif %}
+            <h3>{{ member.name }}</h3>
+            <a class='mem-position'>{{ member.position }}</a>
+            {% if member.bio %}
+            <p class='mem-bio'>{{ member.bio }}</p>
+            {% endif %}
+          </li>
+          {% endfor %}
         </ul>
-    </div><!-- /.article-wrap -->
+      </div><!-- /.article-wrap -->
     </article>
 </div><!-- /#index -->
 
