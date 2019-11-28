@@ -1,15 +1,20 @@
 ﻿-   name: Ana Mourato
     position: CQE, FCUL
     url:
-    avatar:
+    avatar: /images/pessoas/foto_ana_mourato.png
+
+-   name: Ona Šivickytė
+    position: BioISI, FCUL
+    url:
+    avatar: /images/pessoas/foto_ona_sivickyte.png
 
 -   name: Rafael Nunes
     position: BioISI, FCUL
     url:
-    avatar:
+    avatar: /images/pessoas/foto_rafael_nunes.png
 
 -   name: Tomás Silva
     position: BioISI, FCUL
     url:
-    avatar:
-
+    avatar: /images/pessoas/foto_tomas_silva.png
+    

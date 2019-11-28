@@ -59,11 +59,24 @@
           </li>
           {% endfor %}
         </ul>
-	
-	<h3>Comissão Organizadora Local</h3>
+
+        <h3>Comissão Organizadora Local</h3>
         <ul class="rig columns-3">
           {% for member in site.data.organizacaolocal %}
           <li class="boxed">
+            {% if member.avatar %}
+            {% assign avatar = member.avatar %}
+            {% else %}
+            {% assign avatar = '/images/pessoas/bio-photo.jpg' %}
+            {% endif %}
+	    
+            {% if member.url %}
+            <a href="{{ member.url }}" target="_blank">
+              <img class="avatar" src="{{ avatar }}" />
+            </a>
+            {% else %}
+            <img class="avatar" src="{{ avatar }}" />
+            {% endif %}
             <h3>{{ member.name }}</h3>
             <a class='mem-position'>{{ member.position }}</a>
             {% if member.bio %}
