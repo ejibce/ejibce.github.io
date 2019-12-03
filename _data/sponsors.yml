@@ -5,8 +5,12 @@
     avatar: /images/sponsors/logo_ASCENZA.jpg
     
 -   name: BioISI
-    url: http://bioisi.pt/
+    url: https://bioisi.pt/
     avatar: /images/sponsors/logo_BioISI.png
+
+-   name: FCT
+    url: https://www.fct.pt
+    avatar: /images/sponsors/logo_FCT.png
 
 -   name: BSIM Therapeutics
     url: https://bsimtx.com/
@@ -16,7 +20,6 @@
     url: https://www.wallfuture.com/
     avatar: /images/sponsors/logo_wallfuture.png
     
-
 
 #-   name: CNC
 #    url: http://www.cnbc.pt/
