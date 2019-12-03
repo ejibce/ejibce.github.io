@@ -60,7 +60,7 @@ O EJIBCE 2019 continua o formato das edições anteriores, apostando num número
     <tr><td class="odd red">09:35</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>\Keynote 1</strong> :: Ana Rita Cola&ccedil;o </td></tr>
+    <tr class="events"><td class="even"> <strong>\K1</strong> :: Ana Rita Cola&ccedil;o - Mining and Integration of Proteomics Data with Knowledge Graphs</td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd green">10:05</td> </tr>
@@ -84,7 +84,7 @@ O EJIBCE 2019 continua o formato das edições anteriores, apostando num número
     <tr><td class="odd red">11:15</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>\Keynote 2</strong> :: Ana Vila Verde </td></tr>
+    <tr class="events"><td class="even"> <strong>\K2</strong> :: Ana Vila Verde - Molecular mechanisms behind protein halotolerance: a molecular dynamics study with optimised ion-ion force fields</td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd green">11:45</td> </tr>
@@ -108,13 +108,13 @@ O EJIBCE 2019 continua o formato das edições anteriores, apostando num número
     <tr><td class="odd red">14:30</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>\Keynote 3</strong> :: Ana Sofia Oliveira </td></tr>
+    <tr class="events"><td class="even"> <strong>\K3</strong> :: Ana Sofia Oliveira - Understanding signal propagation in nicotinic acetylcholine receptors</td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd red">15:00</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>\Keynote 4</strong> :: Marta Perez </td></tr>
+    <tr class="events"><td class="even"> <strong>\K4</strong> :: Marta Perez - Addressing challenges in cancer immunotherapy with structural bioinformatics approaches</td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd green">15:30</td> </tr>
@@ -132,7 +132,7 @@ O EJIBCE 2019 continua o formato das edições anteriores, apostando num número
     <tr><td class="odd red">16:30</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>\Keynote 5</strong> :: Sara Campos </td></tr>
+    <tr class="events"><td class="even"> <strong>\K5</strong> :: Sara Campos - The effect of proton binding on dimer formation and other structural properties of &beta;-lactoglobulin: a constant-pH MD study</td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd green">17:00</td> </tr>
