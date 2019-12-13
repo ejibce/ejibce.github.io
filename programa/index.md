@@ -38,7 +38,7 @@ O EJIBCE 2019 continua o formato das edições anteriores, apostando num número
 <img src="/images/pessoas/foto_sara_campos.jpg" class="mugshot" />
 <strong>Sara Campos </strong> é uma investigadora do ITQB NOVA que se dedica maioritariamente ao desenvolvimento e aplicação de dinâmica molecular a pH constante. Licenciada em Bioquímica pela Universidade de Coimbra, integrou o grupo de Simulação Molecular do ITQB em 2005, onde completou o doutoramento e desenvolveu a sua investigação de pós-doutoramento. Os seus estudos têm abordado temáticas como o misfolding induzido pelo pH, tratamento de gradientes electroquímicos e, mais recentemente, a dimerização dependente do pH da proteína β-lactoglobulina.</p>
 
-## Programa provisório
+## Programa
 <link rel="stylesheet" href="teste_tabela.css">
 
 <div class="bigtable">
@@ -66,13 +66,13 @@ O EJIBCE 2019 continua o formato das edições anteriores, apostando num número
     <tr><td class="odd green">10:05</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> &lt;Oral communication 1&gt; </td></tr>
+    <tr class="events"><td class="even"> <strong>O1</strong> :: Bruno Cal&ccedil;ada - <i>In silico</i> methodologies from an agrobusiness point of view </td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd green">10:25</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> &lt;Oral communication 2&gt; </td></tr>
+    <tr class="events"><td class="even"> <strong>O2</strong> :: Ana Sequeira - Building an automated platform for the classification of peptides/proteins using machine learning </td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd yellow">10:45</td> </tr>
@@ -90,13 +90,13 @@ O EJIBCE 2019 continua o formato das edições anteriores, apostando num número
     <tr><td class="odd green">11:45</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> &lt;Oral communication 3&gt; </td></tr>
+    <tr class="events"><td class="even"> <strong>O3</strong> :: Jo&atilde;o Especial - Hydrophobic confinement modulates thermal stability and assists knotting in the folding of tangled proteins </td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd green">12:05</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> &lt;Oral communication 4&gt; </td></tr>
+    <tr class="events"><td class="even"> <strong>O4</strong> :: Ricardo Ferreira - Antibiotic uptake across gram-negative outer membranes: enabling targeted synthesis from optimized permeability predictions </td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd yellow">12:25</td> </tr>
@@ -120,7 +120,7 @@ O EJIBCE 2019 continua o formato das edições anteriores, apostando num número
     <tr><td class="odd green">15:30</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> &lt;Oral communication 5&gt; </td></tr>
+    <tr class="events"><td class="even"> <strong>O5</strong> :: Raquel Gouveia - Stargazin: CACNG2 Mutations in Neuropsychiatric Disorders </td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd yellow">15:50</td> </tr>
@@ -138,13 +138,13 @@ O EJIBCE 2019 continua o formato das edições anteriores, apostando num número
     <tr><td class="odd green">17:00</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> &lt;Oral communication 6&gt; </td></tr>
+    <tr class="events"><td class="even"> <strong>O6</strong> :: Carla Teixeira - Unraveling the chemistry beyond the catalytic activity of &omega;-amidase </td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd green">17:20</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> &lt;Oral communication 7&gt; </td></tr>
+    <tr class="events"><td class="even"> <strong>O7</strong> :: Lucie da Rocha - Study of pH-dependent conformational changes on &beta;-lactoglobulin using molecular modelling </td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd yellow">17:40</td> </tr>
