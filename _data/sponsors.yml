@@ -8,13 +8,21 @@
     url: https://bioisi.pt/
     avatar: /images/sponsors/logo_BioISI.png
 
--   name: FCT
-    url: https://www.fct.pt
-    avatar: /images/sponsors/logo_FCT.png
-
 -   name: BSIM Therapeutics
     url: https://bsimtx.com/
     avatar: /images/sponsors/logo_BSIMTX.png
+
+-   name: FCUL
+    url: https://ciencias.ulisboa.pt/
+    avatar: /images/sponsors/logo_FCUL.png
+
+-   name: FCiênciasID
+    url: http://www.fciencias-id.pt/
+    avatar: /images/sponsors/logo_fcienciasid.png
+
+-   name: FCT
+    url: https://www.fct.pt
+    avatar: /images/sponsors/logo_FCT.png
 
 -   name: Wallfuture
     url: https://www.wallfuture.com/
