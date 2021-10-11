@@ -2,52 +2,40 @@
 layout: page
 title: Localização
 excerpt: "Informações Gerais de Localização do EJIBCE 2021"
-tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCUL]
+tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCTUC]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
   feature: feature-FCUL.png
 ---
 
-O EJIBCE 2019 terá lugar na [Faculdade de Ciências e Tecnologia da Universidade de Coimbra](https://ciencias.ulisboa.pt/pt), no anfiteatro da FCiências.ID (edifício C1, piso 3).
+O EJIBCE 2021 terá lugar na [Faculdade de Ciências e Tecnologia da Universidade de Coimbra](https://www.uc.pt/en/fctuc), no anfiteatro I do Departamento de Ciências da Vida.
 
 ### Morada
-Faculdade de Ciências da Universidade de Lisboa
+Faculdade de Ciências e Tecnologia da Universidade de Coimbra
 
-Campo Grande
+Calçada Martim de Freitas
 
-1749-016 Lisboa
+3000-456 Coimbra
 
 Portugal
 
 # Como chegar?
-O acesso à FCUL é fácil e rápido, utilizando o autocarro, metro, automóvel, ou mesmo bicicleta (ciclovias).
+O acesso à FCTUC é rápido, particularmente para quem chega de comboio à estação de Coimbra A, sendo possível caminhar o resto da distância, ou também recorrer a automóvel, autocarros, táxi ou trotinetes!
 
 
 ### Autocarro
-[Carris](http://www.carris.pt/): 701, 717, 731, 735, 736, 738, 747, 750, 755, 764, 767, 768, 778, 783, 796, 798
 
-[Rodoviária de Lisboa](http://www.rodoviariadelisboa.pt/): 201, 300, 311, 312, 313, 315, 329, 331, 333, 334, 335, 336, 337, 344, 353, 354, 901, 931
+[Serviços Municipalizados de Transportes Urbanos de Coimbra](https://www.smtuc.pt/en/):
+ - a partir do Terminal Rodoviário de Coimbra: [linhas 28 ou 5](https://moovitapp.com/coimbra-1905/poi/Universidade/Terminal%20Rodovi%C3%A1rio%20de[…]207916_-8.424338&fll=40.216209_-8.436722&customerId=4908&ref=5)
+ - a partir da Estação Nova: [linha 103](https://moovitapp.com/coimbra-1905/poi/Universidade/Estac%C3%A3o%20Nova/pt?tll=40.207916_-8.424338&fll=40.20915_-8.4324&customerId=4908&ref=5)
 
-[Transportes Sul do Tejo](https://www.tsuldotejo.pt/): 176
-
-### Metro
-Estações da [Cidade Universitária](http://www.metrolisboa.pt/) e do [Campo Grande](http://www.metrolisboa.pt/)
-
-### Comboio
-Estação de [Entrecampos](https://www.cp.pt/passageiros/pt/consultar-horarios/estacoes/entrecampos)
-
-### Bicicleta
-Estação [Gira 481](https://www.gira-bicicletasdelisboa.pt)
-
-### Automóvel
-2.ª circular - saída do Campo Grande / Cidade Universitária
-
+### Táxis
+[Praça de Táxis](https://coimbra.empresasportugal.net/taxi-stand/praca-de-taxis-rodoviaria/)
+[Politáxis Coimbra](http://www.politaxis.pt/)
 
 # Localização no Mapa
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2511.7095513051713!2d-9.15685177634004!3d38.757306051854506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1932fcd3afdbc9%3A0x1ae21e6ea0c00c60!2sCampo+Grande+C1%2C+Lisboa!5e1!3m2!1sen!2spt!4v1558531030116!5m2!1sen!2spt" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.09002382905!2d-8.424475784610461!3d40.20706037939009!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd22f9a07de99ec3%3A0x2ccfec8c3b4d8553!2sDepartamento%20de%20Ci%C3%AAncias%20da%20Vida%20-%20Universidade%20de%20Coimbra!5e0!3m2!1sen!2spt!4v1633991764427!5m2!1sen!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ### Coordenadas GPS
-38.75720299384127,-9.15664458353865
-
-N 38° 45' 25.931'' W 9° 9' 23.92''
+40.207314,-8.422212
