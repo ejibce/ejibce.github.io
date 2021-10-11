@@ -2,7 +2,7 @@
 layout: page
 title: Edições Anteriores
 excerpt: "Edições Anteriores do EJIBCE"
-tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST]
+tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCTUC]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
@@ -11,6 +11,12 @@ image:
 ---
 
 Nesta página podem ser encontrados os livros de resumos (abstracts) das edições anteriores do EJIBCE.
+
+
+## Livro de Resumos EJIBCE 2019
+Porto, 21 de dezembro de 2019
+
+[Download](/images/abstracts_2019.pdf)
 
 ## Livro de Resumos EJIBCE 2018
 Porto, 21 de dezembro de 2018
