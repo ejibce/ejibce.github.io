@@ -1,7 +1,7 @@
 ---
 layout: acerca
 title: Acerca
-excerpt: "Informações Gerais sobre o EJIBCE 2019"
+excerpt: "Informações Gerais sobre o EJIBCE 2021"
 tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
@@ -12,10 +12,10 @@ image:
 
 O Encontro de Jovens Investigadores de Biologia Computacional Estrutural (EJIBCE) tem como objectivo
 reunir a comunidade científica portuguesa nesta área num encontro livre de encargos, de forma a
-proporcionar um espaço de discussão e partilha sem compromissos. Esta sexta edição alimenta-se do sucesso das edições anteriores, no Porto, em Lisboa, em Coimbra, em Oeiras e em Coimbra que reuniram cerca de 60 participantes num total de mais de 10 comunicações orais, por edição.
+proporcionar um espaço de discussão e partilha sem compromissos. Esta sétima edição alimenta-se do sucesso das edições anteriores, no Porto, em Lisboa, em Coimbra e em Oeiras que reuniram mais de 60 participantes num total de mais de 10 comunicações orais, por edição.
 
 ## Missão & Objectivos
-A partilha e discussão de ideias são as sementes para uma comunidade científica forte. Dada a presente situação económica, torna-se cada vez mais difícil manter e estimular um espírito de abertura e colaboração entre os vários grupos de investigação em Portugal. Ademais, com a acentuada "fuga de cérebros", muitos jovens cientistas portugueses vêem-se forçados a emigrar, perdendo por vezes contacto com o panorama científico nacional.
+A partilha e discussão de ideias são as sementes para uma comunidade científica forte. Dada a presente situação pandémica, torna-se cada vez mais necessário dinamizar e estimular um espírito de abertura e colaboração entre os vários grupos de investigação em Portugal. Entre outros fatores, este panorama veio mostrar o contributo e crescente necessidade de investigadores capazes de rentabilizar os recursos computacionais para a geração de respostas rápidas, eficazes e racionais a problemas reais, urgentes e incotornáveis.
 
 Este contacto com Portugal torna-se importante no momento de voltar ao país após um doutoramento, um pós-doutoramento, ou qualquer outro período prolongado no estrangeiro. Por outro lado, há quem queira continuar no estrangeiro mas simultaneamente cultivar uma relação de proximidade com a ciência em Portugal. Mas, que grupos existem na área da Biologia Computacional Estrutural em Portugal? E que investigação é levada a cabo nesses grupos? As perguntas surgem naturalmente e as respostas nem sempre são simples de encontrar.
 
