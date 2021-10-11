@@ -1,28 +1,16 @@
 # Keep avatars at 200 px width
 
--   name: Ascenza
-    url: https://www.ascenza.com/
-    avatar: /images/sponsors/logo_ASCENZA.jpg
+-   name: CNC-UC
+    url: https://www.cnc.uc.pt/en/
+    avatar: /images/sponsors/logo_CNC.jpg
     
--   name: BioISI
-    url: https://bioisi.pt/
-    avatar: /images/sponsors/logo_BioISI.png
+-   name: CIBB
+    url: https://www.cibb.uc.pt/
+    avatar: /images/sponsors/logo_CIBB.png
 
--   name: BSIM Therapeutics
-    url: https://bsimtx.com/
-    avatar: /images/sponsors/logo_BSIMTX.png
-
--   name: FCUL
-    url: https://ciencias.ulisboa.pt/
-    avatar: /images/sponsors/logo_FCUL.png
-
--   name: FCiênciasID
-    url: http://www.fciencias-id.pt/
-    avatar: /images/sponsors/logo_fcienciasid.png
-
--   name: FCT
-    url: https://www.fct.pt
-    avatar: /images/sponsors/logo_FCT.png
+-   name: UC
+    url: https://www.uc.pt/en
+    avatar: /images/sponsors/logo_UC.jpg
 
 -   name: Wallfuture
     url: https://www.wallfuture.com/
