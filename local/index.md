@@ -31,7 +31,9 @@ O acesso à FCTUC é rápido, particularmente para quem chega de comboio à esta
  - a partir da Estação Nova: [linha 103](https://moovitapp.com/coimbra-1905/poi/Universidade/Estac%C3%A3o%20Nova/pt?tll=40.207916_-8.424338&fll=40.20915_-8.4324&customerId=4908&ref=5)
 
 ### Táxis
+
 [Praça de Táxis](https://coimbra.empresasportugal.net/taxi-stand/praca-de-taxis-rodoviaria/)
+
 [Politáxis Coimbra](http://www.politaxis.pt/)
 
 # Localização no Mapa
