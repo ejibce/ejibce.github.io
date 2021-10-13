@@ -6,7 +6,7 @@ tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCTUC]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: feature-IPN.jpg
+  feature: dcv_image.png
 ---
 
 O EJIBCE 2021 terá lugar na [Faculdade de Ciências e Tecnologia da Universidade de Coimbra](https://www.uc.pt/en/fctuc), no anfiteatro I do Departamento de Ciências da Vida.
