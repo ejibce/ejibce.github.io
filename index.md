@@ -6,4 +6,4 @@ image:
   feature: feature-2021.png
 ---
 
-Financed by national funds thought FCT – Fundação para a Ciência e a Tecnologia, I.P., under project UID/Multi/04046/2019.
+Financed by national funds thought FCT – Fundação para a Ciência e a Tecnologia, I.P., under projects LA/P/0058/2020, UIDB/04539/2020, UIDP/04539/2020.
