@@ -82,80 +82,52 @@ Desde novembro de 2018, é investigadora no ITQB NOVA e seu objetivo é dissecar
     <tr class="events grey"><td class="even"> Almo&ccedil;o e sess&atilde;o de posters </td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd red">11:15</td> </tr>
-  </table>
-  <table class="noborder">
-    <tr class="events"><td class="even"> <strong>\K2</strong> :: Ana Vila Verde - Molecular mechanisms behind protein halotolerance: a molecular dynamics study with optimised ion-ion force fields</td></tr>
-  </table>
-  <table class="hours">
-    <tr><td class="odd green">11:45</td> </tr>
-  </table>
-  <table class="noborder">
-    <tr class="events"><td class="even"> <strong>O3</strong> :: Jo&atilde;o Especial - Hydrophobic confinement modulates thermal stability and assists knotting in the folding of tangled proteins </td></tr>
-  </table>
-  <table class="hours">
-    <tr><td class="odd green">12:05</td> </tr>
-  </table>
-  <table class="noborder">
-    <tr class="events"><td class="even"> <strong>O4</strong> :: Ricardo Ferreira - Antibiotic uptake across gram-negative outer membranes: enabling targeted synthesis from optimized permeability predictions </td></tr>
-  </table>
-  <table class="hours">
-    <tr><td class="odd yellow">12:25</td> </tr>
-  </table>
-  <table class="noborder">
-    <tr class="events grey"><td class="even"> $Lunch + Poster session </td></tr>
-  </table>
-  <table class="hours">
     <tr><td class="odd red">14:30</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>\K3</strong> :: Ana Sofia Oliveira - Understanding signal propagation in nicotinic acetylcholine receptors</td></tr>
+    <tr class="events"><td class="even"> <strong>K2</strong> :: Bruno Victor - Brevemente</td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd red">15:00</td> </tr>
+    <tr><td class="odd green">15:15</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>\K4</strong> :: Marta Perez - Addressing challenges in cancer immunotherapy with structural bioinformatics approaches</td></tr>
+    <tr class="events"><td class="even"> <strong>O3</strong> :: O4 - TBD </td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd green">15:30</td> </tr>
+    <tr><td class="odd green">15:40</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>O5</strong> :: Raquel Gouveia - Stargazin: CACNG2 Mutations in Neuropsychiatric Disorders </td></tr>
+    <tr class="events"><td class="even"> <strong>O5</strong> :: TBD </td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd yellow">15:50</td> </tr>
+    <tr><td class="odd yellow">16:05</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events grey"><td class="even"> $Coffee break + Poster session </td></tr>
+    <tr class="events grey"><td class="even"> <i>Coffee break</i> e sess&atilde;o de posters </td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd red">16:30</td> </tr>
+    <tr><td class="odd red">16:35</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>\K5</strong> :: Sara Campos - The effect of proton binding on dimer formation and other structural properties of &beta;-lactoglobulin: a constant-pH MD study</td></tr>
+    <tr class="events"><td class="even"> <strong>O6</strong> :: TBD</td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd green">17:00</td> </tr>
+    <tr><td class="odd red">17:00</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>O6</strong> :: Carla Teixeira - Unraveling the chemistry beyond the catalytic activity of &omega;-amidase </td></tr>
+    <tr class="events"><td class="even"> <strong>O7</strong> :: TBD</td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd green">17:20</td> </tr>
+    <tr><td class="odd green">17:25</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>O7</strong> :: Lucie da Rocha - Study of pH-dependent conformational changes on &beta;-lactoglobulin using molecular modelling </td></tr>
+    <tr class="events"><td class="even"> <strong>O8</strong> :: TBD </td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd yellow">17:40</td> </tr>
+    <tr><td class="odd yellow">17:50</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> $Closing </td></tr>
+    <tr class="events grey"><td class="even"> Encerramento </td></tr>
   </table>
-  <table class="hours">
-    <tr><td class="odd yellow">18:00</td></tr>
-  </table>
-
 
 <!-- <img src="/images/programa/programa_provisorio.png"/> -->
