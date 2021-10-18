@@ -9,4 +9,4 @@ image:
   feature: feature-REGISTO.jpg
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdN1JwPsCEiJwTyQQh-sK211PTlzgFBvTqd3EtMdSHhVv-hhg/viewform" title="signup"></iframe>
+<iframe width="1200" height="4000" src="https://docs.google.com/forms/d/e/1FAIpQLSdN1JwPsCEiJwTyQQh-sK211PTlzgFBvTqd3EtMdSHhVv-hhg/viewform" title="signup"></iframe>
