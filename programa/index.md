@@ -10,7 +10,7 @@ image:
 ---
 
 ## Informações Gerais
-O EJIBCE 2019 continua o formato das edições anteriores, apostando num número reduzido de comunicações orais para fomentar a discussão e troca de ideias. Ao longo do dia, 12 investigadores apresentarão os seus resultados. Destes 12, 7 serão seleccionados, entre os resumos submetidos, pela comissão científica com base na qualidade e originalidade do trabalho, e terão à sua disposição <strong>15 minutos seguidos de uma curta discussão</strong>. As restantes 5 comunicações serão feitas por investigadores convidados, que terão cerca de <strong>25 minutos e 5 de discussão</strong>.
+O EJIBCE 2021 continua o formato das edições anteriores, apostando em comunicações orais para fomentar a discussão e troca de ideias. Ao longo do dia, 10 investigadores apresentarão os seus resultados. Destes 10, 8 serão seleccionados, entre os resumos submetidos, pela comissão científica com base na qualidade e originalidade do trabalho, e terão à sua disposição <strong>20 minutos seguidos de uma curta discussão</strong>. As restantes 2 comunicações serão feitas por investigadores convidados, que terão cerca de <strong>40 minutos e 5 de discussão</strong>.
 
 <strong><font color="red">Abstracts:</font></strong> Até <strong>30 de Novembro</strong>.
 
@@ -36,38 +36,50 @@ Desde novembro de 2018, é investigadora no ITQB NOVA e seu objetivo é dissecar
   </table>
 <div class="test">
   <table class="noborder">
-    <tr class="events grey"><td class="even">$Registration</td></tr>
+    <tr class="events grey"><td class="even">Registo</td></tr>
   </table>
 </div>
   <table class="hours">
     <tr><td class="odd yellow">09:30</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even">$Welcome address</td></tr>
+    <tr class="events"><td class="even">Irina Moreira - 3D Bioinfo - inaugur&atilde;&ccedil;ao PT</td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd red">09:35</td> </tr>
+    <tr><td class="odd red">09:45</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>\K1</strong> :: Ana Rita Cola&ccedil;o - Mining and Integration of Proteomics Data with Knowledge Graphs</td></tr>
+    <tr class="events"><td class="even"> <strong>K1</strong> :: Diana Lousa - Brevemente</td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd green">10:05</td> </tr>
+    <tr><td class="odd green">10:30</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>O1</strong> :: Bruno Cal&ccedil;ada - <i>In silico</i> methodologies from an agrobusiness point of view </td></tr>
+    <tr class="events"><td class="even"> <strong>O1</strong> :: TBD </td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd green">10:25</td> </tr>
+    <tr><td class="odd green">10:55</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>O2</strong> :: Ana Sequeira - Building an automated platform for the classification of peptides/proteins using machine learning </td></tr>
+    <tr class="events grey"><td class="even"> <i>Coffee break</i> e sess&atilde;o de posters</td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd yellow">10:45</td> </tr>
+    <tr><td class="odd green">11:30</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events grey"><td class="even"> $Coffee break + Poster session </td></tr>
+    <tr class="events"><td class="even"> <strong>O2</strong> :: TBD </td></tr>
+  </table>
+  <table class="hours">
+    <tr><td class="odd yellow">11:55</td> </tr>
+  </table>
+  <table class="noborder">
+    <tr class="events"><td class="even"> <strong>O3</strong> :: TBD </td></tr>
+  </table>
+  <table class="hours">
+    <tr><td class="odd yellow">12:20</td> </tr>
+  </table>
+  <table class="noborder">
+    <tr class="events grey"><td class="even"> Almo&ccedil;o e sess&atilde;o de posters </td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd red">11:15</td> </tr>
