@@ -43,7 +43,7 @@ Desde novembro de 2018, é investigadora no ITQB NOVA e seu objetivo é dissecar
     <tr><td class="odd yellow">09:30</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even">Irina Moreira - 3d-Bioinfo-PT - <a href="https://biodata.pt/">BioData.pt</a></td></tr>
+    <tr class="events"><td class="even">Irina Moreira - 3d-Bioinfo-PT - <a href="https://biodata.pt/" target="_blank" style="color:rgb(33,91,149);">BioData.pt</a></td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd red">09:45</td> </tr>
