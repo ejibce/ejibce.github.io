@@ -9,4 +9,4 @@ image:
   feature: feature-REGISTO.jpg
 ---
 
-O registo encontra-se encerrado.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdN1JwPsCEiJwTyQQh-sK211PTlzgFBvTqd3EtMdSHhVv-hhg/viewform" title="signup"></iframe>
