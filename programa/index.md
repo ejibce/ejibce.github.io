@@ -129,5 +129,7 @@ Desde novembro de 2018, é investigadora no ITQB NOVA e seu objetivo é dissecar
   <table class="noborder">
     <tr class="events grey"><td class="even"> Encerramento </td></tr>
   </table>
-
+<br>
+<br>
+<br>
 <!-- <img src="/images/programa/programa_provisorio.png"/> -->
