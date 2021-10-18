@@ -1,5 +1,9 @@
 # Keep avatars at 200 px width
 
+-   name: UC
+    url: https://www.uc.pt/en
+    avatar: /images/sponsors/logo_UC.jpg
+
 -   name: CNC-UC
     url: https://www.cnc.uc.pt/en/
     avatar: /images/sponsors/logo_CNC.png
@@ -7,10 +11,6 @@
 -   name: CIBB
     url: https://www.cibb.uc.pt/
     avatar: /images/sponsors/logo_CIBB.png
-
--   name: UC
-    url: https://www.uc.pt/en
-    avatar: /images/sponsors/logo_UC.jpg
 
 -   name: Wallfuture
     url: https://www.wallfuture.com/
