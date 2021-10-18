@@ -91,7 +91,7 @@ Desde novembro de 2018, é investigadora no ITQB NOVA e seu objetivo é dissecar
     <tr><td class="odd green">15:15</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>O3</strong> :: O4 - TBD </td></tr>
+    <tr class="events"><td class="even"> <strong>O4</strong> :: - TBD </td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd green">15:40</td> </tr>
