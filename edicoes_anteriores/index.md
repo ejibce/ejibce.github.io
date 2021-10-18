@@ -14,7 +14,7 @@ Nesta página podem ser encontrados os livros de resumos (abstracts) das ediçõ
 
 
 ## Livro de Resumos EJIBCE 2019
-Porto, 21 de dezembro de 2019
+Lisboa, 20 de dezembro de 2019
 
 [Download](/images/abstracts_2019.pdf)
 
