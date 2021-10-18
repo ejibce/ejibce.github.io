@@ -58,7 +58,7 @@ Desde novembro de 2018, é investigadora no ITQB NOVA e seu objetivo é dissecar
     <tr class="events"><td class="even"> <strong>O1</strong> :: TBD </td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd green">10:55</td> </tr>
+    <tr><td class="odd yellow">10:55</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events grey"><td class="even"> <i>Coffee break</i> e sess&atilde;o de posters</td></tr>
@@ -70,7 +70,7 @@ Desde novembro de 2018, é investigadora no ITQB NOVA e seu objetivo é dissecar
     <tr class="events"><td class="even"> <strong>O2</strong> :: TBD </td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd yellow">11:55</td> </tr>
+    <tr><td class="odd green">11:55</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events"><td class="even"> <strong>O3</strong> :: TBD </td></tr>
@@ -106,13 +106,13 @@ Desde novembro de 2018, é investigadora no ITQB NOVA e seu objetivo é dissecar
     <tr class="events grey"><td class="even"> <i>Coffee break</i> e sess&atilde;o de posters </td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd red">16:35</td> </tr>
+    <tr><td class="odd green">16:35</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events"><td class="even"> <strong>O6</strong> :: TBD</td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd red">17:00</td> </tr>
+    <tr><td class="odd green">17:00</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events"><td class="even"> <strong>O7</strong> :: TBD</td></tr>
