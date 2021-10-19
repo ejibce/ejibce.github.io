@@ -49,7 +49,7 @@ Desde novembro de 2018, é investigadora no ITQB NOVA e seu objetivo é dissecar
     <tr><td class="odd red">09:45</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>K1</strong> :: Diana Lousa - Brevemente</td></tr>
+    <tr class="events"><td class="even"> <strong>K1</strong> :: Diana Lousa - "Viral membrane fusion: characterizing and inactivating a crucial step of the infection by devastating pathogens"</td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd green">10:30</td> </tr>
@@ -85,7 +85,7 @@ Desde novembro de 2018, é investigadora no ITQB NOVA e seu objetivo é dissecar
     <tr><td class="odd red">14:30</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>K2</strong> :: Bruno Victor - Brevemente</td></tr>
+    <tr class="events"><td class="even"> <strong>K2</strong> :: Bruno Victor - "Identification of membrane Pan-Assay INterference CompoundS (PAINS) using an atomistic Molecular Dynamics protocol"</td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd green">15:15</td> </tr>
