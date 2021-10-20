@@ -43,88 +43,94 @@ Desde novembro de 2018, é investigadora no ITQB NOVA e seu objetivo é dissecar
     <tr><td class="odd yellow">09:30</td> </tr>
   </table>
   <table class="noborder">
+    <tr class="events"><td class="even">Cl&aacute;udia Cavadas - Abertura pela vice-reitora da Universidade de Coimbra</td></tr>
+  </table>
+  <table class="hours">
+    <tr><td class="odd yellow">09:45</td> </tr>
+  </table>
+  <table class="noborder">
     <tr class="events"><td class="even">Irina Moreira - Inaugura&ccedil;&atilde;o da comunidade 3d-Bioinfo-PT - <a href="https://biodata.pt/" target="_blank" style="color:rgb(33,91,149);">BioData.pt</a></td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd red">09:45</td> </tr>
+    <tr><td class="odd red">10:00</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events"><td class="even"> <strong>K1</strong> :: Diana Lousa - "Viral membrane fusion: characterizing and inactivating a crucial step of the infection by devastating pathogens"</td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd green">10:30</td> </tr>
+    <tr><td class="odd green">10:45</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events"><td class="even"> <strong>O1</strong> :: TBD </td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd yellow">10:55</td> </tr>
+    <tr><td class="odd yellow">11:05</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events grey"><td class="even"> <i>Coffee break</i> e sess&atilde;o de posters</td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd green">11:30</td> </tr>
+    <tr><td class="odd green">11:45</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events"><td class="even"> <strong>O2</strong> :: TBD </td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd green">11:55</td> </tr>
+    <tr><td class="odd green">12:00</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events"><td class="even"> <strong>O3</strong> :: TBD </td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd yellow">12:20</td> </tr>
+    <tr><td class="odd yellow">12:35</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events grey"><td class="even"> Almo&ccedil;o e sess&atilde;o de posters </td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd red">14:30</td> </tr>
+    <tr><td class="odd red">14:45</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events"><td class="even"> <strong>K2</strong> :: Bruno Victor - "Identification of membrane Pan-Assay INterference CompoundS (PAINS) using an atomistic Molecular Dynamics protocol"</td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd green">15:15</td> </tr>
+    <tr><td class="odd green">15:30</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events"><td class="even"> <strong>O4</strong> :: TBD </td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd green">15:40</td> </tr>
+    <tr><td class="odd green">15:55</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events"><td class="even"> <strong>O5</strong> :: TBD </td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd yellow">16:05</td> </tr>
+    <tr><td class="odd yellow">16:20</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events grey"><td class="even"> <i>Coffee break</i> e sess&atilde;o de posters </td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd green">16:35</td> </tr>
+    <tr><td class="odd green">16:50</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events"><td class="even"> <strong>O6</strong> :: TBD</td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd green">17:00</td> </tr>
+    <tr><td class="odd green">17:15</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events"><td class="even"> <strong>O7</strong> :: TBD</td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd green">17:25</td> </tr>
+    <tr><td class="odd green">17:40</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events"><td class="even"> <strong>O8</strong> :: TBD </td></tr>
   </table>
   <table class="hours">
-    <tr><td class="odd yellow">17:50</td> </tr>
+    <tr><td class="odd yellow">18:05</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events grey"><td class="even"> Encerramento </td></tr>
