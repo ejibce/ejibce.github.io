@@ -16,8 +16,13 @@
 -   name: João Rodrigues
     position: Schrodinger
     url: http://unstructuredbio.com/
-    avatar: /images/pessoas/foto_joao_rodrigues.jpg
-    
+    avatar: /images/pessoas/foto_joao_rodrigues.png
+
+-   name: Ezgi Karaca
+    position: Izmi Biomedicine and Genome Center, Balçova/Izmkir, Turkey
+    url: https://www.ibg.edu.tr/research-programs/groups/karaca-lab/
+    avatar: /images/pessoas/foto_ezgi_karaca.png
+
 #-   name: Alexandre Bonvin
 #    position: <a href="https://www.uu.nl/" target="_blank">UU</a>, Utrecht, Netherlands
 #    url: https://www.uu.nl/staff/amjjbonvin
