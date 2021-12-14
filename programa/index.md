@@ -61,7 +61,8 @@ Desde novembro de 2018, é investigadora no ITQB NOVA e seu objetivo é dissecar
     <tr><td class="odd green">10:45</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>O1</strong> :: TBD </td></tr>
+    <tr class="events"><td class="even"> <strong>O1</strong> :: Joana Pereira - "What is hidden in the darkness? Seeking new families in natural unknown
+proteins" </td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd yellow">11:10</td> </tr>
@@ -73,13 +74,15 @@ Desde novembro de 2018, é investigadora no ITQB NOVA e seu objetivo é dissecar
     <tr><td class="odd green">11:40</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>O2</strong> :: TBD </td></tr>
+    <tr class="events"><td class="even"> <strong>O2</strong> :: Ona &Scaron;ivickyt&edot; - "A novel US-CpHMD protocol to study the protonation-dependent
+mechanism of the ATP/ADP carrier" </td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd green">12:05</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>O3</strong> :: TBD </td></tr>
+    <tr class="events"><td class="even"> <strong>O3</strong> :: Nuno Oliveira - "A novel US-CpHMD protocol to study the protonation-dependent
+mechanism of the ATP/ADP carrier" </td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd yellow">12:30</td> </tr>
@@ -97,13 +100,14 @@ Desde novembro de 2018, é investigadora no ITQB NOVA e seu objetivo é dissecar
     <tr><td class="odd green">15:30</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>O4</strong> :: TBD </td></tr>
+    <tr class="events"><td class="even"> <strong>O4</strong> :: Beatriz B&uuml;schbell - "DRD2 homo-dimers - a world of possibilities" </td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd green">15:55</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>O5</strong> :: TBD </td></tr>
+    <tr class="events"><td class="even"> <strong>O5</strong> :: Pedro Suzano - "An US-CpHMD protocol to calculate pH-dependent membrane
+permeability coefficients of antitumor drugs" </td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd yellow">16:20</td> </tr>
@@ -115,19 +119,23 @@ Desde novembro de 2018, é investigadora no ITQB NOVA e seu objetivo é dissecar
     <tr><td class="odd green">16:50</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>O6</strong> :: TBD</td></tr>
+    <tr class="events"><td class="even"> <strong>O6</strong> :: Lu&iacute;s Borges-Ara&uacute;jo - "SARS-CoV-2 variants impact RBD conformational dynamics and ACE2
+accessibility"</td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd green">17:15</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>O7</strong> :: TBD</td></tr>
+    <tr class="events"><td class="even"> <strong>O7</strong> :: Tatiana Vieira - "Developed of Inverted Virtual Screening Approaches for the Identification
+of Protein Targets Associated to the Biological Activity of Specific
+Molecules"</td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd green">17:40</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>O8</strong> :: TBD </td></tr>
+    <tr class="events"><td class="even"> <strong>O8</strong> :: Mariana Val&eacute;rio - "Parainfluenza fusion peptide promotes membrane fusion by assembling
+into oligomeric pore-like structures" </td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd yellow">18:05</td> </tr>
