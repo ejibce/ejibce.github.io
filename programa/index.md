@@ -127,15 +127,14 @@ accessibility"</td></tr>
   </table>
   <table class="noborder">
     <tr class="events"><td class="even"> <strong>O7</strong> :: Tatiana Vieira - "Developed of Inverted Virtual Screening Approaches for the Identification
-of Protein Targets Associated to the Biological Activity of Specific
-Molecules"</td></tr>
+of Protein Targets Associated to the Biological Activity of Specific Molecules"</td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd green">17:40</td> </tr>
   </table>
   <table class="noborder">
     <tr class="events"><td class="even"> <strong>O8</strong> :: Mariana Val&eacute;rio - "Parainfluenza fusion peptide promotes membrane fusion by assembling
-into oligomeric pore-like structures" </td></tr>
+into oligomeric pore-like structures"<br></td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd yellow">18:05</td> </tr>
