@@ -74,8 +74,7 @@ proteins" </td></tr>
     <tr><td class="odd green">11:10</td> </tr>
   </table>
   <table class="noborder">
-    <tr class="events"><td class="even"> <strong>O2</strong> :: Ona &Scaron;ivickyt&edot; - "A novel US-CpHMD protocol to study the protonation-dependent
-mechanism of the ATP/ADP carrier" </td></tr>
+    <tr class="events"><td class="even"> <strong>O2</strong> :: Ona &Scaron;ivickyt&edot; - "Probing new energy descriptors for halogen bonds" </td></tr>
   </table>
   <table class="hours">
     <tr><td class="odd green">11:35</td> </tr>
